@@ -12,3 +12,8 @@ start_urls.txt
 
 # IDE
 .claude/
+
+# Secrets (NEVER commit these!)
+.env
+*.key
+secrets.json
