@@ -1,5 +1,19 @@
+# Data collection
 pandas
 scrapy
 selenium
 tqdm
 webdriver-manager
+
+# Analysis
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+jupyter
+ipywidgets
+
+# Text clustering
+openai
+umap-learn
