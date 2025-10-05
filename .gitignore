@@ -4,9 +4,11 @@
 .vscode
 *.html
 *.pyc
-*ipynb
 geckodriver.log
 
 # Output files
 output.jl
 start_urls.txt
+
+# IDE
+.claude/
