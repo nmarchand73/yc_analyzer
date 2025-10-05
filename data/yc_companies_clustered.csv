@@ -1,501 +1,501 @@
 company_id,company_name,short_description,batch,status,tags,cluster_kmeans,cluster_dbscan,tsne_x,tsne_y
-525,StackMachine,Instant sandboxed server environments,Summer 2013,Inactive,"['developer-tools', 'devops', 'cloud-computing']",0,-1,8.716395,-21.584564
-12582,Pair Team,Connecting underserved communities to high quality care,Summer 2019,Active,"['health-tech', 'workflow-automation', 'digital-health', 'healthcare', 'healthcare-it']",2,-1,2.407272,17.324175
-29952,Ficra,"Real time, source of truth for every product screen and user flow",Summer 2024,Active,"['artificial-intelligence', 'b2b', 'workflow-automation', 'productivity', 'design-tools']",3,-1,-10.108581,-10.408979
-30467,Opusense AI,AI for Field Inspection Reports,Spring 2025,Active,"['saas', 'construction', 'b2b']",3,-1,-2.7072272,-4.606222
-21799,Conta Simples,All-in-one financial platform for latam Startups and SMBs.,Summer 2020,Active,"['fintech', 'latin-america', 'smb']",6,-1,-18.483818,9.344532
-1553,No Lean Season,A bus ticket out of poverty,Winter 2017,Inactive,['nonprofit'],5,-1,-19.231668,4.610706
-662,Checkr,People infrastructure for the future of work,Summer 2014,Active,"['compliance', 'hr-tech', 'api', 'enterprise-software', 'ai']",2,-1,-2.8709908,7.132254
-29741,Dimely,AI agents for B2B SaaS Finance Teams,Summer 2024,Active,[],3,-1,-2.8489373,2.6169326
-11948,Centaur Labs,Labeling medical data at scale,Winter 2019,Active,"['artificial-intelligence', 'crowdsourcing', 'data-labeling']",2,-1,1.7437421,9.633361
-29324,PromptArmor,LLM Security and Compliance,Winter 2024,Active,"['artificial-intelligence', 'generative-ai', 'security', 'cybersecurity']",1,-1,7.0463605,3.770386
-22903,Finary.com,The new wealth manager for Europe,Winter 2021,Active,"['fintech', 'investing', 'neobank']",6,-1,-14.417899,13.461043
-25515,Whiz,"Transforming Finances, Maximizing Your Money Potential.",Winter 2022,Inactive,"['fintech', 'payments', 'consumer', 'neobank']",6,-1,-13.522142,13.224664
-493,RADAR,RADAR is building technology to completely transform the in-store…,Winter 2013,Active,"['artificial-intelligence', 'retail-tech']",4,-1,-13.343172,-5.442844
-25120,Elevate (formerly Bloom),US based USD accounts for non-US residents ,Winter 2022,Active,"['fintech', 'payments', 'consumer', 'neobank']",6,-1,-15.124645,10.401223
-15,Amiato,The BI bridge for unstructured data. We automatically bridge the gap…,Winter 2012,Acquired,"['analytics', 'big-data']",3,-1,0.15000269,-2.3337595
-22995,QuickNode,Tools & infra to build and scale high-quality blockchain applications.,Winter 2021,Active,"['developer-tools', 'saas', 'crypto-web3', 'api']",0,-1,15.032389,1.7224787
-27809,EdgeBit,Autofix your software dependencies,Winter 2023,Acquired,"['devsecops', 'b2b', 'security']",4,-1,5.810863,2.4594736
-12095,Upsolve,Helping low-income Americans overcome debt and rebuild credit at…,Winter 2019,Active,"['fintech', 'nonprofit', 'legaltech', 'consumer-finance']",6,-1,-0.935124,-11.7952
-23357,Treinta,Digital ledger App for Latam microbusinesses,Winter 2021,Active,"['saas', 'b2b']",6,-1,-18.89273,9.612232
-435,Profig,The phone system for businesses. Manage everything from your company…,Summer 2012,Inactive,['telecommunications'],4,-1,14.1475525,-15.86829
-13185,Operator Labs,"Building protocols for the intelligent, decentralized web.",Winter 2020,Active,"['generative-ai', 'crypto-web3', 'data-engineering']",1,-1,13.236978,8.228896
-27704,FlexDesk,One platform for corporate occupiers to manage their office portfolios,Winter 2023,Active,"['real-estate', 'b2b', 'hr-tech', 'proptech']",4,-1,-11.800817,-2.2479427
-22752,ClipDrop,Turn regular mobile photos into professional product visuals,Winter 2021,Acquired,"['saas', 'computer-vision', 'design-tools']",5,-1,-11.511246,-7.648661
-27816,OpenSight,AI-powered customer support automation for fast-growing companies,Winter 2023,Inactive,"['generative-ai', 'b2b', 'customer-success', 'customer-support']",3,-1,0.74057114,-11.251718
-29124,Onward,Intelligent meeting automation for ambitious teams.,Summer 2023,Inactive,[],3,-1,10.617794,-15.264477
-46,BarSense,Kid's first smartphone with web-based parental controls.,Winter 2012,Inactive,['kids'],4,-1,-7.354688,-22.789488
-25449,Alixia,Targeting the Tumor Ecosystem to address cancer drug resistance.,Winter 2022,Active,"['biotech', 'therapeutics', 'drug-discovery', 'oncology', 'biotechnology']",7,-1,-3.8996522,22.777494
-12073,Fuse,Unified API for financial data aggregators.,Winter 2019,Inactive,"['fintech', 'saas', 'b2b']",6,-1,-11.053137,5.4426627
-405,HealthSherpa,Private sector Healthcare.gov. ,Summer 2012,Active,"['health-tech', 'health-insurance']",2,-1,-1.0478189,13.352155
-30948,Lua Global Inc,"Self-Serve AI powered Sales, Support & Booking Agents",Fall 2025,Active,"['saas', 'b2b', 'retail-tech']",3,-1,3.8314466,-8.174358
-30651,Alter,Secure access control and authorization platform for agent workflows,Summer 2025,Active,"['aiops', 'artificial-intelligence', 'developer-tools', 'devsecops', 'security']",1,-1,8.834689,2.1824477
-27924,OutSail Technologies,"Revolutionary, Modern Wing Sails",Winter 2023,Inactive,"['logistics', 'climate', 'climatetech']",4,-1,3.911389,27.29057
-914,GiveCampus,The fundraising platform for schools.,Summer 2015,Active,"['education', 'fintech', 'saas', 'b2b']",6,-1,-7.9669313,4.016907
-642,OpenCurriculum,Helping K-12 teachers and school administrators build awesome…,Winter 2014,Active,"['artificial-intelligence', 'education']",0,-1,-9.3472395,-19.76393
-24600,Algofi,Building the new financial system,Summer 2021,Inactive,['crypto-web3'],6,-1,12.8455715,8.298637
-25757,AntWalk,An employee up-skilling platform for fast growing companies,Winter 2022,Inactive,"['education', 'elearning', 'enterprise']",3,-1,-5.106336,-15.132122
-22677,GroMo,App for independent agents to sell financial products in India,Winter 2021,Active,"['fintech', 'insurance']",6,-1,-7.245132,12.593107
-29271,DGI Apparel,Expedia for ordering blank apparel,Winter 2024,Inactive,[],5,-1,-6.289244,-1.657298
-298,Popcuts,Popcuts is an online music store where fans participate in the…,Summer 2008,Inactive,"['marketplace', 'e-commerce', 'music']",5,-1,23.139763,5.19867
-1731,Blueberry Pediatrics,24/7 pediatric clinic in every family's living room,Winter 2018,Active,"['consumer-health-services', 'health-tech', 'telehealth', 'pediatrics', 'digital-health']",2,-1,1.6648753,19.389925
-25935,Topship,Flexport for African Merchants - Building the OS for Global Logistics,Winter 2022,Active,"['b2b', 'logistics', 'e-commerce', 'supply-chain']",5,-1,-16.072773,5.5782037
-29501,Fume,We are building the AI Software Developer,Winter 2024,Active,"['artificial-intelligence', 'developer-tools', 'b2b']",1,-1,11.9438305,-4.072566
-1277,SmartPath,Financial wellness for the middle class,Summer 2016,Active,['fintech'],6,-1,-11.606644,13.085365
-30938,Imagine AI,AI agent that handles all of your B2B content needs,Fall 2025,Active,"['saas', 'b2b', 'sales']",3,-1,5.226834,-7.8289866
-769,HigherMe,Helping restaurant employers find & hire better employees faster,Winter 2015,Acquired,"['saas', 'hr-tech', 'restaurant-tech']",5,-1,-2.7208083,7.615605
-758,Cribspot,Tech-Enabled Real Estate Company (YC W15),Winter 2015,Inactive,"['real-estate', 'proptech']",4,-1,-8.921643,-2.2692256
-29105,FlowiseAI,Open source GenAI development platform,Summer 2023,Acquired,"['artificial-intelligence', 'developer-tools', 'generative-ai', 'open-source']",1,-1,11.954359,-2.3605027
-25746,Durioo,Streaming Platform for Muslim Children,Winter 2022,Active,"['entertainment', 'subscriptions']",5,-1,-6.1798053,-20.509533
-25347,Perl Street,Financing the next-generation of infrastructure projects,Winter 2022,Active,['climate'],4,-1,-9.678286,17.452877
-29259,Newton,AI-powered phone platform for dentists,Winter 2024,Active,[],2,-1,6.1432023,-14.255274
-30762,Kernel,Crazy Fast Browsers-as-a-Service,Summer 2025,Active,"['artificial-intelligence', 'developer-tools', 'cloud-computing', 'infrastructure']",0,-1,6.070087,-17.555489
-27870,Langfuse,Open source LLM engineering platform,Winter 2023,Active,"['developer-tools', 'generative-ai', 'analytics', 'open-source', 'ai']",0,-1,13.27905,1.4526776
-26756,IvyCheck,Clean and enrich your data 10x faster,Summer 2022,Active,"['generative-ai', 'b2b', 'data-engineering', 'ai', 'databases']",1,-1,2.917036,-13.217135
-1749,CoinTracker,The gold standard in cryptocurrency portfolio tracking and taxes,Winter 2018,Active,"['fintech', 'saas', 'crypto-web3', 'consumer']",6,-1,-7.0906215,8.643794
-1737,Rhythmm,Read interesting conversations,Winter 2018,Inactive,"['community', 'social']",0,-1,22.93284,-5.014992
-27701,Backdrop,"Vertical SaaS for $650B+ Film, TV, Music & Event Production Industry ",Winter 2023,Active,"['fintech', 'b2b', 'entertainment', 'enterprise-software', 'ai']",4,-1,-1.9934417,2.2521625
-29727,Overstand Labs,We help business leaders get back into Founder Mode,Winter 2025,Active,"['customer-success', 'api', 'customer-support', 'ai']",3,-1,3.83889,-2.9791248
-28851,Bronco AI,AI for ASIC Design Verification,Summer 2023,Active,"['artificial-intelligence', 'b2b', 'enterprise-software', 'semiconductors']",1,-1,12.573255,-10.04829
-30196,Stamp,The AI Native Email Client,Winter 2025,Active,[],3,-1,17.238348,-6.930799
-1745,Worklytics,Analytics to improve how teams work and collaborate,Winter 2018,Active,"['human-resources', 'productivity']",0,-1,2.3645027,-0.65260416
-24129,Cabal,"Private workspace for founders, investors, and advisors to collaborate",Summer 2021,Active,"['saas', 'b2b', 'community']",0,-1,-5.6606,4.3645487
-30918,ComplyDo,"More Comply, Less Do. Most flexible compliance engine for enterprises.",Fall 2025,Active,"['artificial-intelligence', 'saas', 'b2b', 'legaltech', 'cybersecurity']",3,-1,5.443562,7.1075993
-446,Flightfox,"A platform to plan, book and manage global and group travel.",Summer 2012,Active,"['b2b', 'travel']",5,-1,-10.550733,2.0890584
-25615,BharatX,Enable Buy-Now-Pay-Later in a White-Labelled Manner,Winter 2022,Acquired,"['fintech', 'consumer']",6,-1,-11.514798,8.910246
-1594,Bloom Institute of Technology,The online coding school that invests in you.,Summer 2017,Active,"['education', 'fintech']",6,-1,-9.746131,-17.291063
-13061,Hideout,A portfolio of delivery-only restaurant brands,Winter 2020,Inactive,['ghost-kitchens'],5,-1,-21.37354,-1.649525
-23259,Haystack,Delivery Analytics for Software Teams,Winter 2021,Active,['analytics'],0,-1,1.4700363,0.1071293
-30115,SRE.ai,AI DevOps Agents,Fall 2024,Active,"['artificial-intelligence', 'developer-tools', 'b2b', 'devops', 'infrastructure']",1,-1,5.019031,-5.1231637
-25776,Partna,Your Global payments partner for Africa,Winter 2022,Active,['fintech'],6,-1,-15.489127,6.9480147
-25977,yhangry,Marketplace for private chefs,Winter 2022,Active,['marketplace'],5,-1,-20.06275,1.4331375
-22870,Care Weather,The highest-accuracy global weather data from low-cost flat satellites,Winter 2021,Active,"['hard-tech', 'space-exploration', 'satellites', 'weather', 'agriculture']",4,-1,6.200135,25.722645
-27690,Credal.ai,Harness Frontier Intelligence by building AI assistants that can…,Winter 2023,Active,"['generative-ai', 'cybersecurity', 'enterprise', 'ai']",1,-1,2.756999,-8.931505
-24330,Matidor.com,Project management on a live map,Summer 2021,Active,"['saas', 'geographic-information-system', 'b2b']",4,-1,-3.0074465,-1.5581801
-22669,Stacksi,Automated Answers to Security Questionnaires,Winter 2021,Acquired,"['compliance', 'cybersecurity']",3,-1,2.075476,4.3585467
-24390,Dot,Chat with your Data Warehouse,Summer 2021,Active,"['artificial-intelligence', 'saas', 'b2b', 'analytics', 'enterprise']",3,-1,2.3913913,-2.8454
-193,GazeHawk,Eyetracking using webcams.,Summer 2010,Acquired,['computer-vision'],4,-1,-14.272551,-12.087906
-29021,Fragment,Turn manual operations into scalable processes,Summer 2023,Active,[],1,-1,7.731089,-3.8999455
-24302,OneStopKitchen,AI-Driven Tech & Space Optimization to Scale Restaurants,Summer 2021,Active,"['ghost-kitchens', 'e-commerce', 'ai']",5,-1,-20.963387,-1.6981349
-30350,TrainLoop,Reasoning Fine-Tuning,Winter 2025,Active,"['developer-tools', 'generative-ai', 'reinforcement-learning']",1,-1,2.85963,-20.883537
-23597,Kilobaser,Desktop DNA Printer. The Nespresso Machine for DNA.,Winter 2021,Active,"['hard-tech', 'hardware', 'medical-devices']",7,-1,-6.575798,25.688969
-12039,Termius,Termius is an SSH client with team collaboration features,Winter 2019,Active,"['developer-tools', 'devsecops', 'iot-security']",0,-1,20.268173,-3.5813231
-30126,Roundabout Technologies,Software for AI-powered traffic lights,Fall 2024,Active,[],1,-1,9.443531,7.696455
-13506,Nomic Bio,Nomic is doing for proteins what Illumina has done for DNA,Winter 2020,Active,['nanotechnology'],7,-1,-6.1623483,24.169472
-22833,Lendflow,Embedded lending infrastructure for software companies,Winter 2021,Active,['lending'],6,-1,-13.334836,10.507296
-26121,Cinapse,The Operating System of Hollywood,Winter 2022,Active,"['saas', 'b2b', 'entertainment', 'productivity', 'enterprise']",4,-1,-1.0511885,2.5497172
-21864,Farmako Healthcare,India's fastest medicine delivery in just 30 minutes,Summer 2020,Active,"['health-tech', 'delivery', 'digital-health', 'healthcare']",2,-1,-0.2596334,15.896012
-25586,Soon,"Automated sweep account, invest without the stress of speculating",Winter 2022,Active,"['fintech', 'crypto-web3', 'investing']",6,-1,-16.608782,13.389373
-27985,Loula,Enabling birth & postpartum doulas to easily accept Medicaid,Winter 2023,Active,"['health-tech', 'digital-health', 'healthcare', 'health-insurance', ""women's-health""]",2,-1,-3.674256,11.591303
-22260,Clover,"The all-in-one notebook for creatives to brainstorm, write, and plan…",Summer 2020,Acquired,"['productivity', 'note-taking']",0,-1,18.503868,-2.813993
-499,MedXT,"Radiology in the cloud.  X-rays, CAT scans, MRI's, and…",Winter 2013,Acquired,"['health-tech', 'medical-devices']",2,-1,7.3015547,16.166395
-13242,Quill,Fullstack API and management platform for dashboards and reporting,Winter 2020,Active,"['saas', 'analytics', 'api', 'data-visualization']",0,-1,7.406151,-0.7998786
-794,Rare Door,Empowering brick-and-mortar retailers to sell more and engage shoppers,Winter 2015,Inactive,"['e-commerce', 'retail']",5,-1,-14.609151,-4.07475
-29660,Hyrex,The COLD Task Framework,Summer 2024,Active,"['aiops', 'developer-tools', 'cloud-computing', 'infrastructure']",0,-1,12.366656,-19.04003
-1088,flexEngage,Dynamic transactional communications for physical stores to help…,Winter 2016,Acquired,"['analytics', 'retail']",5,-1,-12.861752,-2.8574142
-5,CircuitHub,On-Demand Electronics Manufacturing,Winter 2012,Active,"['hard-tech', 'hardware', 'robotics', 'manufacturing', 'automation']",4,-1,7.5322685,8.680157
-240,Stripe,Economic infrastructure for the internet.,Summer 2009,Active,"['banking-as-a-service', 'fintech', 'saas']",6,-1,-10.10535,7.3758955
-22703,Bluelight,"Analytics, built for the trades.",Winter 2021,Active,"['saas', 'b2b', 'analytics']",4,-1,-4.1348205,-0.10107956
-1621,Advano,Advano is a battery technology company that improve the longevity of…,Summer 2017,Active,"['energy-storage', 'hard-tech', 'climate']",4,-1,1.4689628,28.302166
-1617,Mystery.org,We help kids stay curious by creating better explanations.,Summer 2017,Acquired,"['education', 'elearning']",5,-1,-9.091917,-20.53269
-28045,Peeba,Risk-free wholesale for retailers across Southeast Asia,Winter 2023,Active,"['fintech', 'marketplace', 'b2b', 'retail']",5,-1,-14.850268,4.128368
-1726,Mayhem,Mayhem is the easiest way to play with your gaming community.,Winter 2018,Acquired,['gaming'],0,-1,24.441084,-5.649244
-45,LVL6,We make mobile MMOs. ,Winter 2012,Inactive,['gaming'],0,-1,25.443716,-6.007409
-1244,Symple,Last mile logistics for delivery & service teams. We bring real-time…,Summer 2016,Acquired,"['delivery', 'logistics']",4,-1,-10.055181,-4.612447
-30544,Wavedash,Play the latest games in your browser with no downloads,Spring 2025,Active,"['consumer', 'gaming', 'web-development', 'ai']",0,-1,17.724613,8.206612
-30106,Sunset,Find and move money after a death,Fall 2024,Active,"['fintech', 'consumer-finance']",6,-1,-16.586164,14.398953
-29577,Variant,Creative intelligence,Fall 2024,Active,"['developer-tools', 'design-tools', 'ai']",1,-1,15.932788,-4.469152
-29305,SynsoryBio,"""If-then"" conditional logic for protein drugs",Winter 2024,Active,"['synthetic-biology', 'biotech', 'therapeutics', 'oncology']",7,-1,-5.6617846,23.20724
-653,Backpack,Marketplace to get stuff from overseas,Summer 2014,Active,"['marketplace', 'international']",5,-1,-13.432309,0.43685725
-29527,ParcelBio,Next-generation mRNA medicines,Winter 2024,Active,"['gene-therapy', 'biotech', 'healthcare', 'drug-delivery', 'therapeutics']",7,-1,-7.0542665,22.492748
-25658,Plumter,Easy foreign payments for African merchants,Winter 2022,Active,['fintech'],6,-1,-15.452448,6.702223
-22955,Coderhouse,Effective and accessible online live education.,Winter 2021,Active,"['education', 'elearning', 'community']",0,-1,-9.030208,-17.444233
-22323,CapWay,Inclusive financial technology service provider.,Summer 2020,Inactive,"['fintech', 'saas', 'consumer', 'enterprise', 'neobank']",6,-1,-11.459845,12.043095
-28883,Transformity,Point-of-sale & Vertical SaaS for the $75B Liquor Industry,Summer 2023,Active,[],5,-1,-18.810188,-2.8506541
-24250,Breadcrumbs.io,No-code scoring engine identifying your most engaged upsell opps,Summer 2021,Active,"['analytics', 'no-code']",3,-1,6.0363894,-11.995097
-1452,lvl5,HD maps for self-driving cars.,Winter 2017,Acquired,"['autonomous-trucking', 'self-driving-vehicles']",4,-1,-17.504597,-13.366731
-935,Seva Coffee,"We're changing the world of coffee, one personalized cup at a time.",Summer 2015,Inactive,"['e-commerce', 'personalization']",5,-1,-19.720804,-5.5039077
-13511,Sakneen,Shopify for Real Estate Developers,Winter 2020,Active,"['saas', 'housing']",5,-1,-10.141848,-1.014338
-26882,Coris,"AI-powered risk platform for Payment Providers, Banks, SaaS platforms…",Summer 2022,Active,"['fintech', 'b2b', 'compliance', 'ai']",6,-1,-9.457796,9.891549
-28920,Unhaze,The right leads at the right time for B2B sales,Summer 2023,Inactive,"['saas', 'b2b', 'sales', 'ai']",3,-1,4.911835,-10.867025
-1535,"Wifi Dabba, Inc.",Decentralised broadband connectivity.,Winter 2017,Active,"['hardware', 'crypto-web3', 'telecommunications']",4,-1,14.063726,11.373004
-22106,Letter,Beautifully designed banking for high net-worth individuals.,Summer 2020,Inactive,['fintech'],6,-1,-13.180174,11.914008
-25827,Talentropy.ai,AI solution that streamlines candidate screening and recruitment,Winter 2022,Active,"['saas', 'b2b', 'hr-tech', 'ai']",3,-1,-2.787553,-13.072256
-30771,Flywheel AI,Waymo for excavators,Summer 2025,Active,"['deep-learning', 'hardware', 'construction']",1,-1,-5.7346444,-11.706325
-12740,Khabri,India's Largest Podcast Platform,Summer 2019,Inactive,"['india', 'podcasts']",5,-1,-5.764019,16.03129
-882,Hickory,Hickory turns your employees into experts.,Summer 2015,Inactive,['education'],3,-1,-6.1276636,-14.672431
-23412,Axolo,Improving Developer Experience with Streamlined Code Reviews,Winter 2021,Active,"['developer-tools', 'saas']",0,-1,10.516316,0.52420056
-29315,Attunement,Automation workflow for psychiatric assessments.,Winter 2024,Active,"['artificial-intelligence', 'workflow-automation', 'healthcare']",2,-1,6.758484,12.163389
-30770,Vibe Code Go,Code from your phone,Summer 2025,Active,"['artificial-intelligence', 'developer-tools', 'saas']",0,-1,14.258504,-4.303502
-22617,Serna Bio,Genetic Medicine with Small Molecules ,Winter 2021,Active,"['biotech', 'drug-discovery']",7,-1,-6.291127,22.650824
-27926,Variance,World-Class Tooling for Trust & Safety teams,Winter 2023,Active,"['compliance', 'cybersecurity', 'enterprise-software', 'trust-&-safety', 'ai']",1,-1,8.0729885,5.027475
-29719,Manaflow,Build internal tools for AI using natural language,Summer 2024,Active,"['artificial-intelligence', 'developer-tools', 'b2b', 'operations']",1,-1,10.176335,-2.758248
-27252,Landeed,Landeed is India's fastest property title search engine ,Summer 2022,Active,"['documents', 'fintech', 'civic-tech', 'proptech', 'insurance']",4,-1,-6.968718,15.167991
-1225,Nova Credit,Bridging a world of consumer-permissioned credit data,Summer 2016,Active,"['fintech', 'data-science']",6,-1,-9.931867,11.534705
-12393,Shef,Shef is a Marketplace for Homemade Food,Winter 2019,Active,"['marketplace', 'consumer', 'food', 'food-tech']",5,-1,-20.1772,1.314099
-22706,Curvenote,Communication and publishing tools for scientists,Winter 2021,Active,"['documents', 'developer-tools', 'saas']",0,-1,19.231514,-1.2381022
-12070,Doppler,The first SecretOps Platform.,Winter 2019,Active,"['developer-tools', 'devsecops', 'security']",0,-1,6.526112,0.9278874
-2004,SkydropX,Logistic Management System for E-commerce & Retail in Mexico. ,Summer 2018,Active,"['marketplace', 'saas', 'logistics']",5,-1,-11.06365,-5.0000315
-29362,Pythagora,Worlds first all-in-one AI development platform.,Winter 2024,Active,"['artificial-intelligence', 'developer-tools', 'security', 'web-development']",1,-1,12.966261,-6.141546
-29370,Browser Buddy,Internet discovery engine,Winter 2024,Active,"['consumer', 'ai']",3,-1,7.8362494,-6.732151
-30542,LineWise,AI Agent to troubleshoot manufacturing issues,Spring 2025,Active,"['generative-ai', 'computer-vision', 'manufacturing', 'operations']",1,-1,-1.4701822,-6.490213
-23398,Prospa,Banking for businesses in Nigeria,Winter 2021,Active,"['fintech', 'b2b']",6,-1,-15.377256,8.191893
-30426,Approval AI,"One-click mortgage: AI shops, negotiates, and handles your application",Spring 2025,Active,"['fintech', 'consumer', 'ai']",1,-1,-0.63189566,-9.226464
-24258,Enerjazz,Making electric vehicle batteries affordable ,Summer 2021,Active,['climate'],4,-1,1.7992977,29.227554
-27664,Infisical,"Unified platform for secrets, certs, and privileged access management",Winter 2023,Active,"['developer-tools', 'saas', 'b2b', 'security', 'open-source']",0,-1,8.551917,3.2622142
-12006,AI Insurance,AI Insurance is the platform that runs insurance companies,Winter 2019,Active,"['artificial-intelligence', 'insurance']",1,-1,0.27301583,-8.7535305
-26311,WhiteLab Genomics,Unleashing the potential of DNA and RNA based therapies using AI,Winter 2022,Active,"['artificial-intelligence', 'gene-therapy', 'cell-therapy', 'genomics']",7,-1,-4.638203,24.8989
-131,Hungry Labs,Now part of Snaplayer.,Summer 2011,Inactive,[],0,-1,-22.448236,-2.0842738
-990,MagicBus,We make vanpool simple.,Winter 2016,Active,['transportation'],4,-1,-5.327255,2.8556628
-30205,Scout,AI-powered student information system for K-12 schools,Winter 2025,Active,"['education', 'workflow-automation', 'ai']",3,-1,-3.8689032,-21.491114
-30885,Semble AI,Autonomous fire and life-safety systems engineer,Fall 2025,Active,"['artificial-intelligence', 'saas', 'design-tools']",1,-1,12.735574,-8.813724
-1221,Iris Automation,Enabling autonomous drone operations globally through AI software,Summer 2016,Acquired,"['drones', 'computer-vision', 'ai']",1,-1,-5.8134956,-8.928054
-30655,Frizzle,AI Grading for Teachers,Summer 2025,Active,"['education', 'saas', 'b2b', 'productivity', 'ai']",1,-1,-2.5837274,-20.52573
-13340,Able,India's Largest Placement Platform for Early Professionals,Winter 2020,Acquired,"['consumer', 'india', 'edtech']",5,-1,-5.853466,15.845194
-22720,Smartcuts,Chrome extension to turn clicks & keystrokes into no-code automations,Winter 2021,Active,"['no-code', 'automation']",0,-1,21.976507,6.4694963
-30554,Bond,"Building Donna, your AI Chief of Staff",Spring 2025,Active,"['generative-ai', 'b2b', 'workflow-automation']",3,-1,7.5489917,-4.6628385
-28802,Sohar Health,AI-powered insurance verification to boost patient conversion.,Summer 2023,Active,"['artificial-intelligence', 'health-tech', 'digital-health', 'api', 'data-science']",2,-1,1.7896318,12.667772
-21789,Gather,Project management software for People Operations,Summer 2020,Acquired,"['saas', 'b2b', 'hr-tech']",3,-1,11.550841,-14.804887
-1048,Plato,Plato is the mentorship platform for engineering leaders,Winter 2016,Acquired,[],0,-1,12.2419615,-5.7668424
-1747,Glowing.io,"Unified, enterprise messaging platform for leading brands of the world",Winter 2018,Active,"['saas', 'b2b', 'messaging']",3,-1,10.131729,-13.164941
-26066,Query Vary,No-Code LLM Application / Workflow Builder,Winter 2022,Active,"['aiops', 'artificial-intelligence', 'developer-tools', 'b2b', 'ai']",3,-1,12.82126,2.532166
-1520,Reliance Health,We make healthcare in emerging markets affordable and accessible,Winter 2017,Active,"['health-tech', 'digital-health', 'healthcare', 'health-insurance']",2,-1,-0.72417355,14.593351
-30059,Sphinx,AI Compliance Analysts for Banks & Fintechs,Fall 2024,Active,[],1,-1,3.8262384,5.8792863
-26033,Heptabase,The visual note-taking tool for learning complex topics.,Winter 2022,Active,"['assistive-tech', 'saas', 'consumer', 'productivity', 'note-taking']",0,-1,18.23034,-3.6860137
-13108,yearend,Optimize your equity and taxes in real-time.,Winter 2020,Active,"['fintech', 'finance']",6,-1,-14.750421,15.441764
-21862,Dialect,Making internet experiences distributable and actionable everywhere,Summer 2020,Active,"['crypto-web3', 'b2b']",0,-1,14.132847,10.970667
-29801,Rescript,AI Regulatory Analyst for Enterprises,Summer 2024,Active,"['saas', 'civic-tech', 'b2b', 'legaltech', 'ai']",1,-1,5.123838,9.158308
-29246,Tracecat,All-in-one AI automation platform for security and IT teams,Winter 2024,Active,"['artificial-intelligence', 'productivity', 'open-source', 'enterprise', 'ai']",1,-1,3.330985,-4.501408
-28425,Pando Bioscience,Gen-AI Designed Enzymes for Pharmaceutical Innovation,Winter 2023,Active,"['generative-ai', 'synthetic-biology', 'biotech', 'diagnostics']",7,-1,-5.185561,25.799255
-26811,Payload,Developer-First Headless CMS and Application Framework,Summer 2022,Acquired,"['developer-tools', 'open-source', 'api']",0,-1,3.5621643,1.2081643
-27860,Dream3D,Generative AI Worlds,Winter 2023,Active,"['generative-ai', 'computer-vision', 'ai']",1,-1,15.770463,-8.753108
-29784,Sensei,Robotic Training Data at Scale,Summer 2024,Active,"['artificial-intelligence', 'hard-tech', 'marketplace', 'robotics', 'data-engineering']",1,-1,0.47198156,-16.407434
-829,Seed,Mobile banking for small business.,Winter 2015,Acquired,['fintech'],6,-1,-15.318548,8.921971
-30730,Idler,Scale AI for reinforcement learning environments. ,Summer 2025,Active,"['artificial-intelligence', 'reinforcement-learning', 'data-engineering', 'enterprise-software']",1,-1,1.5226235,-16.102442
-29591,Synnax,Unified Hardware Control and Data Processing Software,Summer 2024,Active,[],4,-1,0.25177142,3.1998453
-27959,Vitalize,The OS for Hospital Operations,Winter 2023,Active,"['saas', 'b2b', 'healthcare']",2,-1,-1.1183987,16.84445
-29201,Legora (formerly Leya),The AI workspace for lawyers,Winter 2024,Active,"['generative-ai', 'legaltech', 'ai']",1,-1,12.535806,3.864368
-424,Hipset,The best way for artists to release new music and videos.,Summer 2012,Inactive,"['entertainment', 'video', 'music']",5,-1,22.104202,2.731901
-30697,Normal,"Modern compliance for drones, robots, IoT, and beyond",Summer 2025,Active,"['hardware', 'compliance', 'manufacturing', 'ai', 'industrial']",4,-1,5.9681277,7.0565376
-11934,Positive,B2B supplier of fresh/healthy packaged food,Winter 2019,Active,"['consumer', 'logistics', 'supply-chain', 'food-tech', 'retail']",5,-1,-23.049385,0.9364108
-29328,Guide Labs,Interpretable AI models and agents that are easy to audit and…,Winter 2024,Active,[],1,-1,4.2724524,-14.784934
-13536,Syncro,Zapier for scaling high-touch talent management,Winter 2020,Inactive,"['workflow-automation', 'recruiting']",0,-1,3.9170473,-0.99568677
-27808,Salient,AI Servicing for Auto Lenders,Winter 2023,Active,"['artificial-intelligence', 'fintech', 'generative-ai', 'b2b', 'operations']",1,-1,-0.30124536,-9.811557
-26897,AviaryAI,Outbound AI voice agents for the financial services industry,Summer 2022,Active,"['fintech', 'b2b', 'ai', 'ai-assistant']",1,-1,0.37942284,-8.42731
-469,9gag,Make the world happier.,Summer 2012,Active,"['social-media', 'social', 'social-network']",5,-1,-8.936196,-13.035321
-25273,Agave,Data infrastructure for Construction,Winter 2022,Active,"['saas', 'construction', 'b2b', 'proptech']",4,-1,-2.870108,-3.8950233
-24691,Orderli,Square for Europe,Summer 2021,Active,"['saas', 'b2b', 'e-commerce']",5,-1,-19.500147,-1.0229099
-22083,HENRY,We train AI engineers and connect them with companies.,Summer 2020,Active,"['ai-enhanced-learning', 'b2b', 'recruiting', 'latin-america', 'talent-acquisition']",1,-1,-1.5640702,-13.840518
-30409,Notus Autonomous Systems,Swarm robotics and full AI-command hierarchy integration,Spring 2025,Active,"['artificial-intelligence', 'robotics', 'drones', '3d-printing']",1,-1,-5.3410854,-9.055209
-24443,Inflow,A self-help app for people to manage their ADHD.,Summer 2021,Active,"['mental-health-tech', 'consumer-health-services']",2,-1,5.9523063,13.772471
-30292,Mesh,Building your AI finance co-worker,Winter 2025,Active,[],1,-1,9.380599,-3.2053926
-1483,Entry,Biometric sign in and identity verification platform,Winter 2017,Inactive,"['machine-learning', 'biometrics', 'ai']",2,-1,5.717418,4.1221204
-570,Echo Locker,Android lock screen,Summer 2013,Acquired,[],0,-1,22.420969,-6.695973
-27267,Ping,The global neo-bank for contractors and freelancers,Summer 2022,Active,"['crypto-web3', 'payments', 'neobank']",6,-1,-13.683169,6.7465076
-29118,Waldium,Build AI-optimized blogs that rank in AI search results ,Summer 2023,Active,"['developer-tools', 'analytics', 'ai']",1,-1,9.621401,-9.13936
-30668,Wedge,Palantir for Healthcare AI Agents,Summer 2025,Active,"['artificial-intelligence', 'saas', 'health-tech', 'healthcare']",1,-1,2.6600575,10.915213
-30791,Spotlight Realty,AI powered brokerage reducing residential rental commissions in NYC…,Summer 2025,Active,"['machine-learning', 'real-estate']",3,-1,-2.4324515,-8.891377
-30241,ZeroEntropy,High accuracy search API over unstructured data.,Winter 2025,Active,[],3,-1,-1.1252488,-3.2322865
-1521,Apozy,Apozy makes every website safe to browse,Winter 2017,Active,['security'],0,-1,6.502468,-18.720285
-507,Zenefits,"HR for small businesses: onboarding, payroll and benefits.",Winter 2013,Acquired,['hr-tech'],2,-1,-3.1812954,8.109096
-27221,CAPSULE,Buy anything you find on social media,Summer 2022,Inactive,"['artificial-intelligence', 'generative-ai', 'machine-learning', 'computer-vision', 'e-commerce']",5,-1,-12.096209,-7.4830737
-22969,LightTwist,Record video in a photorealistic virtual studio all from your browser,Winter 2021,Active,"['augmented-reality', 'computer-vision', 'design-tools']",0,-1,-12.345682,-13.699284
-999,Focal Systems,Building the Operating System for B&M Retail using Deep Learning,Winter 2016,Active,"['deep-learning', 'grocery', 'computer-vision']",4,-1,-13.217725,-4.694333
-22970,Veera Health,We treat women with Polycystic Ovary Syndrome in India,Winter 2021,Active,"['consumer-health-services', 'femtech']",2,-1,-1.2255167,18.920946
-26730,Mocke,Mock email campaigns: know your reply rate 1 min without launch,Summer 2022,Active,"['artificial-intelligence', 'b2b', 'sales']",3,-1,7.366968,-11.775369
-29182,Upsolve AI,Embed GenBI in Your SaaS App,Winter 2024,Active,"['artificial-intelligence', 'developer-tools', 'b2b', 'analytics', 'big-data']",1,-1,-0.3820342,-11.679613
-24601,Humane Genomics,A platform to make artificial viruses as cancer therapeutics.,Summer 2021,Active,"['hard-tech', 'synthetic-biology']",7,-1,-4.32183,24.697392
-30290,Tire Swing,AI for Healthcare Compliance,Winter 2025,Active,"['health-tech', 'compliance', 'legal', 'healthcare', 'health-insurance']",2,-1,3.8390424,9.570134
-158,Fivestars,Customer loyalty and payments platform for small businesses.,Winter 2011,Acquired,"['fintech', 'marketplace']",6,-1,-17.061054,2.3825645
-29415,Givefront,Nonprofit Financial Management,Winter 2024,Active,[],6,-1,-8.013071,4.096969
-25650,NearWave,Helping physicians select the right therapy for breast cancer patients,Winter 2022,Active,"['artificial-intelligence', 'hard-tech', 'hardware', 'saas', 'medical-devices']",2,-1,5.199443,17.692116
-30322,Spott,AI-native ATS/CRM for recruiting firms,Winter 2025,Active,"['artificial-intelligence', 'saas', 'b2b', 'hr-tech', 'enterprise-software']",3,-1,-2.8558438,-10.358924
-30235,Rally,Financial OS for Modern Fleets,Winter 2025,Active,"['fintech', 'logistics', 'transportation', 'ai']",4,-1,-8.902995,6.4795914
-29684,Parahelp,The AI support agent built for fast-moving software companies,Summer 2024,Active,[],3,-1,2.7874675,-6.1011724
-28589,HockeyStack,The operating system for inbound B2B revenue,Summer 2023,Active,"['saas', 'b2b', 'analytics', 'sales', 'marketing']",3,-1,0.8960935,-0.09462856
-1789,Evry Health,Better health insurance for mid-size companies,Winter 2018,Acquired,"['fintech', 'healthcare', 'health-insurance', 'insurance']",2,-1,-1.5843408,13.877793
-639,GBatteries,Enabling li-ion batteries to charge ultra fast without compromising…,Winter 2014,Active,"['energy-storage', 'hard-tech', 'climate']",4,-1,1.1846373,28.830206
-21996,Plerk,"Acquired by Minu.mx - Fintech solutions for employees, starting with…",Summer 2020,Acquired,"['fintech', 'saas', 'b2b']",6,-1,-12.581978,7.459719
-24008,Catena Biosciences,Using protein coupling to build new therapies,Summer 2021,Active,"['biotech', 'therapeutics']",7,-1,-5.604735,23.957453
-29444,Vista Power,Batteries and solar for $0 upfront to help businesses save money,Winter 2024,Active,"['energy-storage', 'b2b', 'sustainability', 'manufacturing', 'renewable-energy']",4,-1,2.5847929,28.758512
-25692,Livedocs,A New Kind of Notebook for Data Storytelling,Winter 2022,Active,"['saas', 'productivity', 'analytics']",0,-1,18.436205,-1.3940027
-1602,UpCodes,UpCodes helps the AEC industry deliver code compliant buildings,Summer 2017,Active,"['govtech', 'construction', 'b2b']",4,-1,17.58724,-10.4946
-21791,AtoB,Rebuilding global transportation payments.,Summer 2020,Active,"['fintech', 'saas', 'payments', 'supply-chain', 'transportation']",6,-1,-9.206464,6.8030515
-30475,Morphik,Open-source multimodal search for AI apps,Spring 2025,Active,"['artificial-intelligence', 'developer-tools', 'open-source', 'search', 'databases']",1,-1,11.77543,-1.4244351
-12637,OpenReplay,"Open-source, self-hosted, session replay tool for developers.",Summer 2019,Active,"['developer-tools', 'saas', 'open-source']",0,-1,15.100404,-0.63846004
-467,Svbtle,A publishing platform.,Summer 2012,Active,['media'],0,-1,16.901997,-2.425338
-28811,Casca,Make Banking Magical,Summer 2023,Active,"['artificial-intelligence', 'conversational-banking', 'fintech', 'machine-learning', 'finance']",6,-1,-10.028277,9.885042
-1725,Precious,AI to curate your baby photos,Winter 2018,Active,['artificial-intelligence'],1,-1,-10.99905,-8.16345
-1595,Leon & George,Buying and owning indoor potted plants made easy.,Summer 2017,Active,['e-commerce'],5,-1,-20.72827,-7.258354
-29505,Tower,Legal due diligence platform powered by AI,Winter 2024,Active,"['artificial-intelligence', 'workflow-automation', 'legal', 'legaltech', 'ai-assistant']",1,-1,10.314125,5.68875
-22975,Noble,Risk decisioning platform ,Winter 2021,Inactive,"['fintech', 'saas']",6,-1,-9.771065,11.6326475
-28160,Finni Health,Empowering Autism Care Providers to Go Independent,Winter 2023,Active,[],2,-1,2.8749623,13.923431
-26050,Olympian Motors,Manufacturing modular electric vehicles with style,Winter 2022,Active,"['consumer', 'manufacturing', 'climate', 'transportation', 'electric-vehicles']",4,-1,3.439155,27.614624
-30673,Nexa Labs,Implantable microchips and AI for cattle monitoring,Summer 2025,Active,"['artificial-intelligence', 'livestock-health', 'medical-devices', 'agriculture', 'biotechnology']",7,-1,-8.798766,24.407406
-13160,Terusama,We help warehouses schedule trucks,Winter 2020,Acquired,"['scheduling', 'logistics']",4,-1,-17.700077,-10.199657
-30883,hillclimb,Math RL Environments for Post-training,Fall 2025,Active,['reinforcement-learning'],1,-1,2.780405,-20.83881
-29588,Saphira AI,Vanta for Hardware,Summer 2024,Active,"['artificial-intelligence', 'hardware', 'robotics', 'compliance', 'enterprise']",1,-1,6.6315246,6.295006
-29301,Topo,AI sales agent custom trained for each company to reach the best leads,Winter 2024,Active,"['artificial-intelligence', 'saas', 'sales']",3,-1,4.4643965,-8.797929
-25817,Lifecast,"Software to create 3D video for VR, robotics and film.",Winter 2022,Inactive,"['machine-learning', 'robotics', 'virtual-reality']",4,-1,-12.2522335,-13.433183
-27991,Coldreach,Find the best leads with custom intent signals,Winter 2023,Active,"['artificial-intelligence', 'generative-ai', 'saas', 'b2b', 'sales']",3,-1,6.257019,-10.85036
-29772,Parley,"Automating flat-fee legal work, starting with work visas + green cards",Summer 2024,Active,"['artificial-intelligence', 'saas', 'legal', 'legaltech', 'immigration']",1,-1,12.558337,4.2037454
-865,Leaders In Tech (formerly InnerSpace),"Helping founders improve themselves, their companies, and the world.",Summer 2015,Active,['community'],0,-1,3.8731546,3.6328478
-854,ThinAir,Intelligent data security for teams,Winter 2015,Inactive,"['cybersecurity', 'enterprise']",4,-1,7.827269,5.218472
-24204,Sentiyen,Conversational AI assistants using your knowledge,Summer 2021,Active,"['ai-enhanced-learning', 'artificial-intelligence', 'ai-assistant']",1,-1,3.126866,-10.282083
-25404,Castia,Built Rewards for Latam. Pay Rent and get benefits.,Winter 2022,Inactive,"['fintech', 'consumer', 'proptech']",6,-1,-19.07823,12.006869
-30403,Aravolta,"Software to monitor, control, and optimize data centers.",Spring 2025,Active,"['enterprise-software', 'cloud-computing', 'monitoring']",4,-1,-5.344853,-5.6746902
-27264,Dev Tools AI,AI powered web & mobile automation,Summer 2022,Inactive,"['artificial-intelligence', 'b2b', 'productivity', 'enterprise']",1,-1,5.7037587,-4.804444
-11984,GoLinks,"Intuitive, easy-to-remember short links - powered by AI.",Winter 2019,Active,"['saas', 'productivity', 'collaboration']",3,-1,6.41653,-7.501263
-1547,Niles,Knowledge Assistant for Work.,Winter 2017,Inactive,"['productivity', 'enterprise']",0,-1,9.649033,-17.526623
-26041,The Ankler,Subscription entertainment news,Winter 2022,Active,['entertainment'],5,-1,23.848791,-1.0195495
-968,Halolife,Halolife is an online platform to find and plan a burial or cremation…,Summer 2015,Inactive,[],2,-1,-4.119693,11.329747
-1998,Nestor,Skills-based talent management solutions for a dynamic workforce.,Summer 2018,Active,"['saas', 'hr-tech']",3,-1,-4.669955,-14.358312
-130,Automatic,Automatic connects your car to the rest of your digital life.,Summer 2011,Acquired,"['iot', 'automotive']",3,-1,6.764465,-2.8673155
-24629,Filadd,We help students in Latin America graduate from College.,Summer 2021,Active,"['education', 'elearning', 'community']",5,-1,-7.421981,-18.645975
-12210,Endpoint Health,Precision-first therapies,Winter 2019,Active,[],7,-1,1.8636652,17.145641
-1431,Starcity,Starcity was one of the largest co-living brands. Exit to Common in…,Summer 2016,Acquired,"['real-estate', 'housing', 'proptech']",4,-1,-8.377796,-2.5823987
-12598,Narrator,The only platform that can prep data to answer EVERY question you…,Summer 2019,Inactive,"['analytics', 'big-data', 'data-engineering']",3,-1,18.893753,0.489765
-29393,Voicepanel,AI agents for customer research,Winter 2024,Active,[],3,-1,8.162194,-10.193635
-29179,Driver AI,Understand millions of lines of code in minutes.,Winter 2024,Active,[],1,-1,11.687959,-7.8250093
-30491,Novoflow,AI employees that automate medical operations for clinics. ,Spring 2025,Active,[],2,-1,4.8465753,12.431434
-13320,Laserfocus,Implement streamlined Salesforce processes for agile GTM teams,Winter 2020,Inactive,"['b2b', 'productivity', 'sales']",3,-1,4.566796,-12.094461
-30529,Adentris,Real-time AI Compliance for Medical Documentation,Spring 2025,Active,"['health-tech', 'b2b', 'compliance', 'enterprise-software', 'ai']",2,-1,4.4763894,10.254459
-12656,Adla,Department store for e-commerce,Summer 2019,Inactive,['e-commerce'],5,-1,-15.629181,-5.2116313
-511,Semantics3,Data and AI platform for Ecommerce & Cross-Border Logistics,Winter 2013,Acquired,"['artificial-intelligence', 'logistics', 'e-commerce']",3,-1,-1.256144,-3.0614836
-764,GiveMeTap,We produce & sell stainless steel water bottles that enables people…,Winter 2015,Active,['sustainability'],4,-1,-7.3478127,2.4468737
-29338,Swift,Embedded finance for online merchants,Winter 2024,Active,"['fintech', 'payments']",6,-1,-13.228102,9.046197
-30559,Godela,AI Physics Engine to replace simulations and prototypes,Spring 2025,Active,"['hard-tech', 'hardware', 'aerospace', 'ai', 'ml']",1,-1,13.054178,-7.575543
-695,PicnicHealth,Empowering Patients for Deep Real World Data,Summer 2014,Active,"['machine-learning', 'health-tech', 'digital-health', 'healthcare', 'nlp']",2,-1,2.223474,16.318073
-1239,Burrow,"A design brand creating innovative, award winning furniture.",Summer 2016,Acquired,"['consumer', 'e-commerce', 'furniture', 'retail']",5,-1,-20.500729,-8.30019
-22294,Clau,The real estate superapp for Mexico,Summer 2020,Active,"['fintech', 'machine-learning', 'marketplace', 'proptech']",6,-1,-9.789436,-2.010794
-23860,Positional,A modern platform for content marketing & SEO.,Summer 2021,Active,"['saas', 'marketing', 'seo']",3,-1,7.352046,-8.646008
-25674,Toko,Learn English by speaking with an AI,Winter 2022,Active,"['ai-enhanced-learning', 'education', 'generative-ai', 'machine-learning', 'consumer']",1,-1,-4.1353316,-17.743677
-12091,Superb AI,Superb AI provides end-to-end computer vision MLOps platform,Winter 2019,Active,"['aiops', 'artificial-intelligence', 'saas', 'b2b', 'ml']",1,-1,0.6781907,-13.085695
-1587,VergeSense,AI-Powered Building Management,Summer 2017,Active,"['artificial-intelligence', 'proptech']",4,-1,-4.0910974,-4.3999553
-12391,ZeroDown,Find beautiful homes,Winter 2019,Acquired,"['real-estate', 'housing']",4,-1,-6.4210024,0.46252754
-30028,Gait,Building Dev Infra for AI Software Engineers,Fall 2024,Inactive,"['developer-tools', 'ai']",1,-1,14.03088,-4.6542783
-1952,The Buttermilk Company,"Instant, fresh ethnic food that actually taste homemade. We're…",Summer 2018,Inactive,"['consumer', 'food-&-beverage']",5,-1,-21.455853,1.2093426
-27263,Guardian Bio,Dendritic cell-based platform for cancer therapy ,Summer 2022,Active,"['biotech', 'healthcare', 'therapeutics', 'oncology']",7,-1,-3.0574121,23.956163
-30268,AthenaHQ,Get Your Brand Discovered on ChatGPT.,Winter 2025,Active,[],1,-1,9.053681,-7.9195905
-12243,Beacons,"An AI-powered, all-in-one business platform for content creators",Summer 2019,Active,['saas'],3,-1,7.254538,-8.232954
-140,AppHarbor,.NET Cloud Platform as a Service,Winter 2011,Inactive,['cloud-computing'],0,-1,1.8146466,1.1773089
-26264,Jutsoo,All your corporate bank accounts connected under one platform,Winter 2022,Active,"['finops', 'fintech', 'saas', 'b2b', 'enterprise-software']",6,-1,-10.856366,5.2103496
-27754,Pair AI,Reimagining education with short form video and AI,Winter 2023,Active,"['ai-enhanced-learning', 'artificial-intelligence', 'marketplace', 'elearning', 'creator-economy']",1,-1,-3.1737146,-17.005709
-30465,Photonium,AI-Driven Optical System Design,Spring 2025,Active,[],4,-1,14.14888,-10.26092
-1465,Pulse,Electronic Medical Records for India,Winter 2017,Inactive,"['health-tech', 'india']",2,-1,0.5811511,15.720162
-1675,Opearlo,Opearlo produces voice apps for Amazon Alexa and Google Home.,Summer 2017,Acquired,['ai-assistant'],1,-1,2.8059046,-11.620935
-29310,Tusk,AI agent that generates unit and integration tests,Winter 2024,Active,[],1,-1,7.879445,-15.601532
-573,Boostable,Advertising platform tools for marketplace sellers. ,Winter 2014,Acquired,"['marketplace', 'advertising']",5,-1,-16.951841,-0.21055534
-30301,FuseAI,The only sales software you will ever need. ,Winter 2025,Active,[],3,-1,4.615266,-8.1269045
-28075,Stralis Aircraft,Emission free hydrogen electric aircraft,Winter 2023,Active,"['hard-tech', 'hydrogen-energy', 'airplanes', 'climate', 'electric-vehicles']",4,-1,3.539721,26.106771
-1468,Nuvola,"Nuvola is transforming battery manufacturing, making EV batteries…",Winter 2017,Active,"['alternative-battery-tech', 'climate']",4,-1,2.2497094,28.371769
-24759,Phykos,Growing seaweed to stabilize the climate.,Summer 2021,Active,"['carbon-capture-and-removal', 'climate']",4,-1,-10.601771,18.784702
-29405,Risotto,Risotto auto-solves IT support requests using AI,Winter 2024,Active,"['artificial-intelligence', 'b2b', 'compliance', 'security', 'enterprise']",3,-1,1.6537201,-5.5992904
-30213,Truffle AI,AWS for AI Agents,Winter 2025,Active,"['artificial-intelligence', 'developer-tools', 'generative-ai', 'infrastructure', 'ai-assistant']",1,-1,1.6080743,-8.820609
-1183,NuCypher (aka Threshold Network),Network for decentralized threshold cryptography and end-to-end…,Summer 2016,Active,"['cryptography', 'privacy']",0,-1,10.634277,10.882151
-1037,Function of Beauty,"Customizable beauty for hair, skin, and body care products.",Winter 2016,Active,"['beauty', 'personalization', 'e-commerce']",5,-1,-16.886806,-4.7144966
-11988,Thrive Agric,"ThriveAgric help Farmers in Africa access finance, insight and Markets",Winter 2019,Active,"['finance', 'agriculture']",6,-1,-17.21539,6.27382
-445,Benchling,Unlocking the power of biotech with modern software for modern science,Summer 2012,Active,"['saas', 'b2b', 'biotech']",7,-1,-7.0815825,24.574892
-1461,MDalgorithms Inc.,Democratizing Dermatology with AI ,Winter 2017,Active,"['consumer-health-services', 'consumer', 'healthcare', 'telemedicine', 'ai']",2,-1,4.326211,16.84534
-21777,Depict,Merchandising for fashion e-commerce,Summer 2020,Active,"['personalization', 'e-commerce', 'fashion']",5,-1,-16.426842,-4.7829046
-25723,Aklimate,Software for enterprises to track and reduce supply chain emissions,Winter 2022,Inactive,"['saas', 'b2b', 'climate']",4,-1,-11.5133,18.35194
-28884,Dialtone,AI agents for enterprises,Summer 2023,Active,"['artificial-intelligence', 'enterprise', 'automation']",3,-1,2.562511,-7.626079
-28082,Sorted,Instant SaaS management,Winter 2023,Inactive,"['saas', 'b2b', 'productivity', 'collaboration', 'subscriptions']",3,-1,-2.5729911,0.5815089
-21930,Osmind,Platform for breakthrough mental health research and treatment,Summer 2020,Active,"['mental-health-tech', 'saas', 'health-tech']",2,-1,4.5717707,15.220424
-127,Parse,Parse is the easiest way to build apps.,Summer 2011,Acquired,[],0,-1,2.9163384,1.6082232
-30729,Floot,The easiest way for non-coders to build apps with AI.,Summer 2025,Active,"['saas', 'no-code', 'web-development', 'ai']",1,-1,13.085427,-2.742738
-27698,Viddy,A new way to create landing pages that is video-native.,Winter 2023,Acquired,"['saas', 'b2b', 'video', 'e-commerce']",5,-1,17.989792,3.2848005
-27424,Mogara,Automatic software R&D capitalization ,Winter 2023,Inactive,"['finance', 'b2b']",4,-1,9.316371,-1.848229
-24539,HitPay,Payments infrastructure for businesses scaling in APAC,Summer 2021,Active,"['fintech', 'payments']",6,-1,-13.451224,6.053391
-27909,Magicflow 𐂂,The Gen AI evaluation and curation platform,Winter 2023,Inactive,"['artificial-intelligence', 'developer-tools', 'generative-ai', 'ai']",1,-1,11.487889,-2.6363707
-30316,Reditus Space,Reusable Satellites for zero-g manufacturing,Winter 2025,Active,"['hard-tech', 'manufacturing', 'aerospace']",4,-1,5.5352464,25.073376
-21895,Foreword,"A marketplace for live, online workshops for professionals",Summer 2020,Inactive,"['education', 'marketplace']",5,-1,-8.6116,-17.22031
-12037,Supernova,Design system platform joins developers and designers together,Winter 2019,Active,"['developer-tools', 'design-tools']",0,-1,16.573174,0.980211
-666,PersistIQ,PersistIQ is a free email automation platform to send a small batch…,Summer 2014,Acquired,"['saas', 'b2b']",3,-1,8.672099,-11.893172
-30238,Amby Health,AI Copilot for Ambulance Agencies (EMS),Winter 2025,Active,"['saas', 'health-tech', 'digital-health', 'healthcare', 'healthcare-it']",2,-1,2.8008785,12.471827
-29298,Greenboard,'Rippling' for Financial Compliance and Operations ,Winter 2024,Active,[],4,-1,3.6004052,7.48143
-13075,Okay,Dashboards and actionable insights for high-performing engineering…,Winter 2020,Acquired,"['analytics', 'devops']",0,-1,6.786976,-0.45171624
-21800,Seam,API for IoT Devices,Summer 2020,Active,"['developer-tools', 'iot', 'api']",0,-1,19.999006,-8.246081
-29737,"Hestus, Inc.",An AI-powered CAD software,Summer 2024,Active,[],3,-1,14.6276655,-7.705915
-26053,Powerhouse AI,Vision-powered warehouse automation: maximizing performance and value,Winter 2022,Active,"['saas', 'warehouse-management-tech', 'logistics']",3,-1,-1.9116657,-5.9790807
-13479,SOMATIC,Bathroom cleaning robots for office buildings. ,Winter 2020,Active,['robotics'],4,-1,-7.244832,-10.411675
-28982,Flint,AI personalized learning for schools,Summer 2023,Active,"['artificial-intelligence', 'education', 'generative-ai', 'edtech']",1,-1,-2.3796854,-20.15807
-22986,SST,For whatever you build.,Winter 2021,Active,"['developer-tools', 'open-source']",0,-1,15.707239,-0.36717606
-781,BuildScience,The operating system for commercial buildings.,Winter 2015,Active,"['sustainability', 'proptech', 'energy']",4,-1,-4.806949,-3.4812374
-2020,"Mark Cuban Cost Plus Drug Company, PBC",Making low cost versions of high cost generic drugs.,Summer 2018,Active,[],7,-1,-21.561413,10.531843
-29019,Sendblue,iMessage for Sales,Summer 2023,Active,[],3,-1,8.749848,-13.161088
-29079,Tiptap,Developer toolkit for building collaborative apps.,Summer 2023,Active,"['developer-tools', 'open-source']",0,-1,19.439955,-3.2658281
-30638,Lotas,"Cursor for Data Science — secure, AI-native IDE for data scientists",Summer 2025,Active,"['developer-tools', 'data-science', 'data-visualization', 'ai']",1,-1,17.857128,-0.40681693
-24538,Coast,Demo Platform for API-First Companies,Summer 2021,Active,"['saas', 'b2b', 'sales', 'sales-enablement', 'api']",3,-1,5.189993,-6.925848
-1543,Faire,The global online platform empowering independent retail.,Winter 2017,Active,"['marketplace', 'retail']",5,-1,-14.632616,-3.3061564
-29672,"DeepSim, Inc.",An AI physics simulator for AI chip design,Summer 2024,Active,"['artificial-intelligence', 'b2b', 'semiconductors']",1,-1,13.038121,-9.191257
-6,iCracked,On-demand smartphone repair in 3 countries and launching smart home…,Winter 2012,Acquired,[],2,-1,0.41526863,6.9646792
-25395,Sekilo,Poultry processing & supply chain for the SME foodservice industry.,Winter 2022,Active,"['supply-chain', 'food']",5,-1,-23.026016,0.95073074
-22470,Degrees of Freedom,"DoF provides a high quality, affordable higher education alternative.",Winter 2021,Inactive,"['virtual-reality', 'nonprofit', 'hr-tech', 'edtech', 'ai']",4,-1,-10.5418825,-17.991774
-12727,Proof Trading,Institutional equities broker-dealer,Summer 2019,Active,['finance'],6,-1,-7.036939,9.751362
-24579,Nomod,"The payment links app to sell anything, anywhere",Summer 2021,Active,"['fintech', 'payments']",6,-1,-13.295495,8.523105
-1279,Xberts,Xberts.com is a cross-border marketplace for Chinese hardware…,Summer 2016,Inactive,['e-commerce'],5,-1,-14.004286,1.1798872
-1782,NewCraft,Universal API for HR & Payroll,Winter 2018,Acquired,"['developer-tools', 'b2b']",0,-1,-3.6591988,5.9030805
-30220,Verbiflow,People search that works,Winter 2025,Active,"['saas', 'analytics', 'sales', 'sales-enablement', 'ai']",3,-1,6.8765445,-9.629993
-823,Pigeonly,"The affordable way to search, find & communicate with an incarcerated…",Winter 2015,Inactive,['govtech'],5,-1,-8.140143,-6.129253
-22696,SlashAuth,The solution for fine-grained access control in web3,Winter 2021,Inactive,"['crypto-web3', 'b2b', 'security']",0,-1,10.031251,1.9096706
-874,Roomblocker,Hotel booking for groups and events.,Summer 2015,Inactive,"['marketplace', 'b2b', 'travel']",5,-1,-10.775616,0.6575368
-24682,Pandai,Learning app for school students in Southeast Asia,Summer 2021,Active,"['education', 'saas', 'subscriptions']",5,-1,-5.753433,-19.749561
-22773,noHQ,International contractor and multi country payroll ,Winter 2021,Inactive,['fintech'],6,-1,-13.137462,5.770868
-24787,Squire.ai,Never code alone.,Summer 2021,Inactive,"['artificial-intelligence', 'developer-tools', 'saas', 'compliance', 'security']",1,-1,10.643376,0.3391873
-13265,Alloy Automation,Alloy is a platform for building and managing SaaS integrations,Winter 2020,Active,"['saas', 'api']",3,-1,8.572395,0.8357622
-714,Hive,"Marketing automation for event promoters (email, sms, ads, CRM)",Summer 2014,Active,"['saas', 'crm', 'sms', 'email']",3,-1,-0.21871763,0.39384118
-24466,Makani Science,Reinventing respiration monitoring,Summer 2021,Active,"['health-tech', 'medical-devices']",2,-1,5.4042144,16.772806
-29821,Polymet,AI Product Designer,Summer 2024,Active,['artificial-intelligence'],1,-1,10.894766,-5.8863606
-30287,Calltree,Enterprise-grade AI support reps for call centers,Winter 2025,Active,"['generative-ai', 'saas', 'b2b', 'customer-service', 'ai']",1,-1,1.9909151,-7.658468
-29761,Distro,The AI co-pilot for sales reps at industrial wholesale distributors.,Summer 2024,Active,"['saas', 'b2b', 'manufacturing', 'supply-chain', 'ai']",3,-1,4.452928,-6.1609483
-29770,Intryc,Intryc uses AI to automate quality assurance for customer support,Summer 2024,Active,"['customer-success', 'analytics', 'customer-support', 'operations']",3,-1,2.843977,-4.876399
-27198,Velontra,Hypersonic space plane that can take-off from any location and weather,Summer 2022,Active,"['commercial-space-launch', 'hardware', 'drones', 'aerospace']",4,-1,4.075876,25.992414
-22744,Encord,Building the data backbone for the (artificial) intelligence…,Winter 2021,Active,"['artificial-intelligence', 'developer-tools', 'machine-learning', 'computer-vision', 'ai']",1,-1,2.0671918,-15.267848
-1472,Beek,Leading audio subscription platform for Spanish content and creators,Winter 2017,Inactive,"['subscriptions', 'creator-economy']",5,-1,23.821774,-0.7217653
-885,Airmada,Autonomous ground stations for drones,Summer 2015,Inactive,"['drones', 'logistics']",4,-1,-5.905025,-8.420249
-1825,Shone,Shone makes existing cargo ships autonomous through retrofit.,Winter 2018,Inactive,['logistics'],4,-1,-17.739065,-12.724031
-21897,Arist,Deliver effective learning at scale ,Summer 2020,Active,"['education', 'elearning']",3,-1,-2.6532066,-18.212132
-442,Zapier,The easiest way to automate your work.,Summer 2012,Active,"['saas', 'b2b', 'automation']",3,-1,4.111788,-1.1175956
-11941,Kopa,Find furnished rentals and compatible housemates for 1-12 month stays ,Winter 2019,Inactive,"['marketplace', 'housing', 'community']",5,-1,-11.847819,-0.09409443
-1343,Suiteness,Book guaranteed connecting rooms and suites at hotels,Summer 2016,Active,[],5,-1,-9.558671,0.9003031
-21767,Command AI,AI-powered user assistance platform,Summer 2020,Acquired,"['saas', 'b2b', 'chatbot']",3,-1,3.486621,-7.4378505
-12877,EPIC AEROSPACE,Last-mile delivery for satellites.,Summer 2019,Active,"['commercial-space-launch', 'hard-tech', 'space-exploration']",4,-1,5.6138844,25.245493
-654,Bannerman,Security Guard Company Marketplace,Summer 2014,Inactive,['security'],4,-1,-1.6360562,5.912155
-11994,Sapling.ai,Language models for enterprise applications.,Winter 2019,Active,"['artificial-intelligence', 'deep-learning', 'generative-ai', 'machine-learning', 'b2b']",1,-1,1.9016027,-10.187938
-30068,Stewdio,All-in-one AI creative platform,Fall 2024,Active,"['design', 'design-tools', 'video', 'advertising', 'ai']",1,-1,16.473597,-5.7805815
-29519,Forge Rewards,Starbucks app for restaurants,Winter 2024,Active,"['artificial-intelligence', 'fintech', 'food-tech']",6,-1,-17.474531,2.0468104
-995,Petcube,Petcube is on the mission to improve lives of pets and pet owners…,Winter 2016,Active,['hardware'],5,-1,-13.999054,-10.085091
-26742,Boostly,Gamified marketing for restaurants,Summer 2022,Active,"['saas', 'b2b', 'messaging', 'food-tech']",5,-1,-17.112608,-0.3434347
-1746,Sixfold Bioscience,Delivering RNA therapies.,Winter 2018,Active,"['gene-therapy', 'nanomedicine', 'drug-delivery']",7,-1,-6.506168,22.717382
-1955,CSPA,The Computer Science Proficiency Assessment (CSPA™) is a…,Summer 2018,Acquired,"['education', 'recruiting']",4,-1,1.6806264,4.5750203
-29725,Promi,"Optimizing ecommerce pricing with dynamic, personalized discounts",Summer 2024,Active,[],5,-1,-13.051759,-3.1418593
-304,RescueTime,Take Back Control of your Time,Winter 2008,Active,"['developer-tools', 'saas']",0,-1,5.1303167,-3.0360577
-27901,Orchid,AI-powered EHR for independent mental health professionals,Winter 2023,Active,"['artificial-intelligence', 'mental-health-tech', 'saas', 'health-tech', 'healthcare']",2,-1,4.730684,14.4555645
-29481,CoCrafter,B2B construction marketplace to match contractors and subcontractors.,Winter 2024,Active,"['marketplace', 'construction']",5,-1,-4.3390765,4.9737096
-26792,Activepieces,"Open-source, AI-first and no-code business automation tool",Summer 2022,Active,"['workflow-automation', 'open-source', 'no-code', 'enterprise-software', 'ai']",3,-1,6.474405,-5.949073
-25787,Courtyard.io,"A frictionless, safe, and fun experience to invest in collectibles",Winter 2022,Active,"['marketplace', 'sports-tech', 'consumer']",5,-1,16.998425,9.709305
-12862,Meridian Industries,Index is the modern business intelligence platform,Summer 2019,Active,"['artificial-intelligence', 'saas', 'b2b', 'analytics', 'data-visualization']",3,-1,9.389022,-5.5016804
-28858,CraftOS,Inventory Management and POS for the Wine industry,Summer 2023,Inactive,"['saas', 'b2b', 'retail']",4,-1,-18.989052,-2.9159663
-479,BuildZoom,BuildZoom is a better way to remodel. We connect homeowners to the…,Winter 2013,Active,"['real-estate', 'construction']",4,-1,-5.5794663,0.6147311
-30527,MindFort,Autonomous Security Agents,Spring 2025,Active,[],1,-1,6.9821672,2.5018532
-22612,Bristle,"At-home oral health testing, coaching & care",Winter 2021,Active,"['consumer-health-services', 'telemedicine']",2,-1,2.0507326,19.382408
-1467,Cartcam,"Cartcam is an app for opinionated, deal-seeking shoppers.  It gives…",Winter 2017,Inactive,"['e-commerce', 'video', 'marketing']",5,-1,-12.953391,-7.4312277
-24006,Karbon Card,Corporate Card solution for Indian businesses,Summer 2021,Active,"['fintech', 'b2b']",6,-1,-11.520884,9.377545
-1772,Tingles,Find content that helps you relax and fall asleep.,Winter 2018,Inactive,['sleep-tech'],5,-1,23.235456,-2.6886575
-12725,DocVita,Telehealth provider for India.,Winter 2020,Active,"['marketplace', 'consumer-health-services', 'telemedicine', 'mental-health']",2,-1,-0.30570814,16.49816
-28796,Sweetspot,AI for Government Contracting.,Summer 2023,Active,[],3,-1,-2.8946342,-10.984099
-30112,BookMyFlight,We make booking a flight as easy as booking an Uber.,Fall 2024,Active,"['artificial-intelligence', 'travel', 'booking', 'ai-assistant']",1,-1,-3.4522288,-7.3224015
-29571,Apten,"Omnichannel AI agents that engage leads across SMS, voice, and email",Summer 2024,Active,"['sales', 'marketing', 'sms', 'ai-assistant']",3,-1,4.178646,-9.5029125
-25379,Skillza,Skillza builds simple tools for teachers and schools in MEA,Winter 2022,Inactive,['education'],0,-1,-3.9986136,-21.073626
-11977,MedCrypt,MedCrypt gives medical device vendors cybersecurity features in a few…,Winter 2019,Active,"['medical-devices', 'healthcare', 'cybersecurity']",2,-1,7.230429,16.12857
-28183,Metal,AI Accelerated Deal Flow and Portfolio Intelligence,Winter 2023,Active,[],3,-1,10.047464,-3.9498513
-13485,Bamboo,Bamboo ― the first online brokerage service for Africans and their…,Winter 2020,Active,"['fintech', 'b2b']",6,-1,-17.039454,7.7476144
-23278,Prendea,Live afterschool classes for Spanish-speaking kids ages 4 to 15.,Winter 2021,Inactive,"['education', 'elearning', 'subscriptions']",5,-1,-7.90295,-19.336777
-30282,Riviera,AI Employees for Hotels,Winter 2025,Active,"['saas', 'b2b', 'travel', 'analytics', 'ai']",3,-1,0.829908,-6.862523
-29071,Cedalio,Turn your utility bills into smart decisions with AI,Summer 2023,Active,"['artificial-intelligence', 'energy', 'data-engineering']",1,-1,-6.1931715,-5.8667
-23041,Platypus,The Distributed Data Operating System,Winter 2021,Inactive,"['b2b', 'workflow-automation', 'data-engineering', 'ai-assistant']",4,-1,1.6207924,-2.498969
-30612,truthsystems,Automatically blocking risky behavior with real-time governance agents,Summer 2025,Active,"['b2b', 'ai']",1,-1,8.929947,5.717876
-26885,Mintplex Labs,Building the definitive all-in-one on-device AI tool suite,Summer 2022,Active,"['open-source', 'ai', 'ai-assistant']",1,-1,12.75792,0.76564014
-1905,Xkit,Universal CRM integration for B2B SaaS apps,Summer 2018,Inactive,"['developer-tools', 'sales', 'api']",3,-1,5.1613383,-1.2249826
-1847,ArchForm,Replacing orthodontic braces with our clear aligner and software,Winter 2018,Active,"['robotics', 'health-tech', 'medical-devices', '3d-printing']",2,-1,5.5685143,10.712809
-1819,Gainful,Personalized Performance Nutrition,Winter 2018,Active,"['consumer', 'e-commerce']",5,-1,-16.184334,-1.4253924
-12662,DirectShifts,Helping healthcare workers find their next career opportunity ,Summer 2019,Active,"['recruiting', 'healthcare']",2,-1,-0.6077647,11.314392
-368,Snipshot,We sold Snipshot to Ansa in 2013.,Winter 2006,Inactive,['media'],5,-1,21.60353,7.038193
-26768,Disclo,Health disclosure and accommodation management platform,Summer 2022,Active,"['human-resources', 'b2b', 'compliance', 'hr-tech']",2,-1,0.4278848,11.380339
-25678,Botin,Investment super app for Latin America,Winter 2022,Inactive,"['fintech', 'crypto-web3']",6,-1,-17.8001,10.953068
-29069,HappyRobot,AI Communication. Built for Logistics.,Summer 2023,Active,"['logistics', 'ai-assistant']",3,-1,0.16713022,-6.8879013
-599,Kuna Systems,"We're making a smart, front door camera with intercom that lets you…",Winter 2014,Acquired,"['smart-home-assistants', 'iot', 'security']",4,-1,21.565878,-9.672374
-28329,Type,The AI-first document editor.,Winter 2023,Active,"['saas', 'productivity', 'marketing', 'ai']",1,-1,18.55215,-5.52021
-566,Webflow,Professional website design and publishing platform. ,Summer 2013,Active,"['saas', 'design', 'marketing']",0,-1,13.884737,-2.3071363
-1559,Peer5,P2P delivery network that enables high quality video streaming,Winter 2017,Acquired,['video'],0,-1,18.678646,4.3753886
-29760,Modern Realty,The AI Native Real Estate Brokerage.,Summer 2024,Active,"['artificial-intelligence', 'real-estate', 'consumer', 'consumer-products', 'ai']",1,-1,-2.13704,-8.680954
-22063,Cohere,Support automation that's actually intelligent,Summer 2020,Acquired,"['artificial-intelligence', 'automation']",3,-1,2.5945625,-5.896883
-12009,Visly,Build React components visually,Winter 2019,Acquired,"['developer-tools', 'design-tools']",0,-1,17.404177,2.4827862
-12629,Nonu,We deliver hair loss medicines for Indian men on a subscription basis.,Summer 2019,Inactive,['india'],2,-1,-2.5949647,16.85844
-28178,Vector,Find your prospects who are most likely to buy.,Winter 2023,Active,"['generative-ai', 'saas', 'b2b', 'enterprise']",3,-1,6.598773,-10.308195
-22902,Verak,Better Business Insurance for MSMEs in India,Winter 2021,Acquired,['insurance'],2,-1,-3.5009005,14.527826
-22046,Flint,Securing Nurses for Your Future,Summer 2020,Active,['healthcare'],2,-1,-0.92004347,10.872733
-1551,Indee Labs,"Enabling T cell immunotherapy discovery, development and manufacturing",Winter 2017,Active,"['gene-therapy', 'microfluidics', 'cell-therapy']",7,-1,-3.6068466,25.387602
-994,Outschool,A live online learning platform that empowers kids ages 3–18.,Winter 2016,Active,"['education', 'marketplace']",5,-1,-8.798477,-19.795517
-26265,Seis,Banking 100% in Spanish for the 44 million US Spanish speakers,Winter 2022,Active,"['fintech', 'consumer-finance', 'neobank']",6,-1,-16.569254,10.495228
-1010,Gigwell,Building the Future of Live Event Bookings.,Winter 2016,Active,"['marketplace', 'saas', 'entertainment']",5,-1,-4.129326,2.0098908
-25512,Ankr Health,Virtualizing brick-mortar infrastructures of clinics w/ generative AI ,Winter 2022,Active,"['generative-ai', 'telehealth', 'b2b', 'digital-health', 'telemedicine']",2,-1,3.7527134,12.441255
-30558,BitPatrol,AI-powered code security,Spring 2025,Active,"['devsecops', 'machine-learning', 'cybersecurity']",1,-1,6.508263,3.3663383
-27840,Index,Planning and AI Prototyping for Product Management,Winter 2023,Active,[],1,-1,10.466575,-5.7201204
-153,Pebble,Watch that helps you get shit done and limit the mayhem of…,Winter 2011,Acquired,['productivity'],0,-1,-14.167514,-10.096169
-363,Zanbazaar,Community-curated catalogs for product recommendations,Summer 2006,Inactive,"['marketplace', 'e-commerce']",5,-1,-14.678746,1.2099135
-13236,Savvy,Flexible stipends for employee health insurance,Winter 2020,Acquired,"['fintech', 'healthcare', 'health-insurance', 'insurance']",2,-1,-2.339186,13.509861
-838,VetPronto,On demand veterinary house calls. ,Winter 2015,Inactive,['healthcare'],2,-1,-0.1748308,17.318445
-13171,The Mercer Club,The Mercer Club is a subscription service that allows men to rent…,Winter 2020,Inactive,"['marketplace', 'smart-clothing', 'sustainable-fashion']",5,-1,-14.096228,-1.2634492
-24606,Pylon,Infrastructure management software for water & electricity companies,Summer 2021,Active,['enterprise-software'],4,-1,-7.3697243,-5.814602
-711,Tenjin,Mobile marketing analytics and infrastructure,Summer 2014,Active,['analytics'],3,-1,-0.9664651,-1.298276
-2037,Kunduz,Kunduz provides instant answers to students' questions and makes…,Summer 2018,Active,"['ai-enhanced-learning', 'artificial-intelligence', 'education', 'marketplace']",5,-1,-5.18372,-19.146923
-12608,TRM Labs,TRM is building a safer financial system for billions of people.,Summer 2019,Active,"['fintech', 'machine-learning', 'crypto-web3', 'data-engineering']",6,-1,-7.4902115,8.864168
-25714,Strong Compute,10x-1000x faster compute for Neural Network training,Winter 2022,Active,"['artificial-intelligence', 'machine-learning', 'cloud-computing']",0,-1,3.8558586,-17.424252
-1686,Cambridge Cancer Genomics,CCG.ai empowers clinicians to make personalised treatment strategies…,Summer 2017,Inactive,"['genomics', 'oncology']",7,-1,-4.010731,23.51305
-27159,Almond,We make it easy to get great ObGyn care  in-person and over telehealth,Summer 2022,Active,"['consumer-health-services', 'telehealth', 'consumer', 'healthcare', 'femtech']",2,-1,0.6992205,18.568394
-30533,Delty,AI staff engineer: software architect that leads coding agents,Spring 2025,Active,"['artificial-intelligence', 'generative-ai', 'saas', 'b2b', 'enterprise-software']",1,-1,10.89226,-7.2882924
-2013,Grin,Mobility and payments platform for Latin America,Summer 2018,Acquired,"['payments', 'latin-america', 'mobility']",6,-1,-19.03409,10.411541
-629,Unicornly,Unicorn.ly makes fundraising more efficient for both angel investors…,Winter 2014,Inactive,"['fintech', 'investing']",6,-1,-14.817571,12.244583
-1732,Shogun,Shogun empowers brands to create exceptional ecommerce experience.,Winter 2018,Active,"['saas', 'b2b', 'e-commerce']",5,-1,-16.886658,-7.209102
-1186,Selfycart,Selfycart - let's grocery shoppers scan items and checkout on their…,Summer 2016,Inactive,['grocery'],5,-1,-13.509149,-6.614921
-1773,Persephone Biosciences,We are using the gut microbiome to end cancer. ,Winter 2018,Active,"['ai-powered-drug-discovery', 'covid-19']",7,-1,-3.171687,22.758945
-12549,Symplex,Applied Reinforcement Learning Research Laboratory,Summer 2019,Acquired,"['artificial-intelligence', 'data-engineering', 'ai-assistant']",1,-1,0.94514596,-15.589605
-12530,Cuboh,We help restaurants manage their online orders.,Summer 2019,Acquired,"['saas', 'food-tech']",5,-1,-19.708645,-1.0963112
-830,SigOpt,SigOpt is an Optimization-as-a-Service platform that seamlessly tunes…,Winter 2015,Acquired,"['machine-learning', 'saas', 'ai']",3,-1,0.93817616,-11.952071
-29350,Aether,AI go-to-market revenue engine for home services installers. ,Winter 2024,Active,"['climate', 'crm', 'ai']",3,-1,5.234422,-9.116976
-21857,Hypotenuse AI,"Manage, create & optimize your ecommerce product content using AI",Summer 2020,Active,"['generative-ai', 'machine-learning', 'e-commerce', 'ai']",3,-1,-2.603805,-16.131744
-23629,Tackle,Time tracking on autopilot,Winter 2021,Active,"['artificial-intelligence', 'b2b', 'operations']",3,-1,5.468863,-3.9845622
-77,Zigfu,Layer above Kinect.,Summer 2011,Inactive,['augmented-reality'],0,-1,-11.881681,-12.563171
-22875,Roin Technologies,Building robots to automate commercial concrete construction.,Winter 2021,Acquired,"['hard-tech', 'hardware', 'robotics']",4,-1,-6.3675427,-11.197052
-24575,Genuity,SaaS Platform to manage IT and buy business software ,Summer 2021,Active,"['saas', 'enterprise-software']",4,-1,-5.017365,-1.2408663
-1100,Perlara,Perlara: building the YC for rare disease parents,Winter 2016,Active,[],7,-1,-4.706915,21.004606
-1698,Social Construct,Social Construct designs and assembles large apartment buildings …,Summer 2017,Inactive,"['generative-ai', 'hardware', 'housing']",4,-1,-5.6761045,-3.5951211
-22878,Popl,Your complete in-person GTM platform,Winter 2021,Active,"['saas', 'iot']",3,-1,10.773748,-13.263392
-12657,Zergo,We make a urine test that helps women get pregnant.,Summer 2019,Inactive,"['fertility-tech', 'hardware']",7,-1,-1.4306128,19.763136
-29366,Metofico,No Code Data Analysis for Life Science Research,Winter 2024,Active,"['saas', 'data-science', 'no-code', 'data-visualization']",7,-1,15.382737,4.891916
-11931,Geosite,Geosite is an enterprise SaaS platform for spatial data.,Winter 2019,Acquired,"['saas', 'geographic-information-system']",4,-1,-3.1859574,-2.0705223
-30234,Adam,AI Powered CAD,Winter 2025,Active,[],1,-1,14.333078,-7.7761993
-12856,Coco Wallet,Web3 super app for remittances to Latin America.,Summer 2019,Active,['crypto-web3'],6,-1,-18.079548,11.131788
-22867,Procoto,Self-service RFP management,Winter 2021,Acquired,"['fintech', 'saas', 'procurement']",4,-1,15.331276,-16.231478
-12038,Doorport,Acquired by Alarm.com - We make existing apartment access smart.,Winter 2019,Acquired,"['smart-home-assistants', 'iot']",4,-1,21.431755,-9.41967
-24550,Examedi,Uber for Healthcare in Latinamerica,Summer 2021,Active,"['marketplace', 'consumer-health-services']",2,-1,1.0538888,14.1096525
-936,Shape (ShapeScale),ShapeScale is a personal 3D scanner and fitness tracker that…,Summer 2015,Active,"['hardware', 'computer-vision', 'consumer-health-services']",5,-1,0.27731597,-17.999083
-631,Wit.ai,Natural Language for Developers --Wit is an API that makes it easy…,Winter 2014,Acquired,"['developer-tools', 'nlp', 'apis']",1,-1,10.426829,-10.255984
-12597,Lucid Bots,"We build robots for dull, dirty, and dangerous jobs.",Summer 2019,Active,"['robotics', 'drones', 'manufacturing', 'aerospace', 'self-driving-vehicles']",4,-1,-6.906806,-9.9254465
-30756,Nottelabs,Reliable Web Agents for Enterprise,Summer 2025,Active,"['artificial-intelligence', 'developer-tools', 'automation']",3,-1,6.4005823,-16.644451
-814,NexTravel,NexTravel is a centralized travel booking platform that helps…,Winter 2015,Acquired,"['travel', 'booking']",5,-1,-10.477227,2.0772624
-30200,Karoo,Canadian neobank focused on lending,Winter 2025,Active,"['fintech', 'consumer', 'neobank']",6,-1,-11.223629,11.224342
-29745,Lumenary,Build working software exceedingly fast in Solar,Summer 2024,Active,"['developer-tools', 'automation', 'ai']",0,-1,13.89093,1.432695
-1738,Necto,ISP starter kit,Winter 2018,Inactive,['telecommunications'],4,-1,14.022691,12.519318
-1864,Hexel,Create a cryptocurrency for your community.,Winter 2018,Inactive,['crypto-web3'],0,-1,15.461042,9.503034
-29678,Lucible,Combined checking and investment account,Summer 2024,Active,"['fintech', 'investing', 'neobank']",6,-1,-14.480738,11.635278
-13234,Release,Environments as a service,Winter 2020,Active,"['developer-tools', 'saas', 'kubernetes']",0,-1,8.356656,-21.663132
-27966,CombineHealth,Automating Healthcare Revenue Cycle Management with AI Workforce,Winter 2023,Active,"['artificial-intelligence', 'machine-learning', 'healthcare']",2,-1,2.799422,11.5099
-24355,LootRush,A safe and friendly way to play crypto games.,Summer 2021,Active,"['cloud-gaming', 'crypto-web3']",0,-1,16.96045,9.49052
-489,RoverRide,A universal urban transit app. Given all transportation options…,Winter 2013,Inactive,"['transportation', 'mobility']",4,-1,10.608426,14.097067
-559,Butter Systems,Replacing the paper restaurant menu with an interactive experience at…,Summer 2013,Inactive,"['digital-health', 'restaurant-tech']",5,-1,-19.0982,-0.38757718
-530,GoComm,Mobile communications platform for teams working on live events,Summer 2013,Inactive,[],4,-1,12.335459,-14.379649
-30684,Doe,Autonomous AI workforce for PE roll-ups,Summer 2025,Active,"['generative-ai', 'saas', 'procurement', 'data-visualization', 'ai']",1,-1,0.750515,-4.055705
-30045,Archil,"Transform S3 in an unlimited, local file system",Fall 2024,Active,[],1,-1,2.3067906,-17.321527
-27867,TruthSuite,AI Fact Checking for Lawyers,Winter 2023,Active,"['artificial-intelligence', 'generative-ai', 'machine-learning', 'legal', 'legaltech']",1,-1,9.872774,5.645489
-30448,PgDog,Scaling engine for PostgreSQL,Spring 2025,Active,[],0,-1,15.668051,-12.525157
-30062,Karmen,AI Assistant for Construction Project Managers,Fall 2024,Active,"['machine-learning', 'construction', 'ai-assistant']",3,-1,-0.2610988,-5.3310537
-28937,LifestyleRx,Virtual Care for Type 2 Diabetes Reversal,Summer 2023,Active,"['health-tech', 'telehealth', 'healthcare', 'health-&-wellness']",2,-1,3.2365186,18.491741
-12860,Deepnote,A better data science notebook.,Summer 2019,Active,"['developer-tools', 'machine-learning']",0,-1,18.416605,-0.690598
-26670,Julius,AI Data Scientist,Summer 2022,Active,['ai'],1,-1,-1.0146492,-14.429326
-22062,Minimum,Helping corporates achieve Net Zero through tech solutions. ,Summer 2020,Active,"['fintech', 'climate']",4,-1,-11.9192295,18.016907
-12743,Loop Health,Modern & comprehensive health insurance plan for employees in India,Winter 2020,Active,"['healthcare', 'insurance', 'primary-care']",2,-1,-1.7985879,14.858449
-24597,Filta,The Face Filter NFT Marketplace,Summer 2021,Active,"['augmented-reality', 'crypto-web3', 'virtual-reality']",5,-1,-11.377448,-11.065016
-29158,Feanix Biotechnologies,Farm Genetics Made Easy - Using DNA and Software,Summer 2023,Active,[],7,-1,-8.774355,24.443197
-30222,General Agency,AI coworkers that can learn and act just like a human,Winter 2025,Active,"['artificial-intelligence', 'hard-tech', 'reinforcement-learning', 'automation', 'ai-assistant']",1,-1,2.5783138,-8.5350485
-22841,ControlHub,Purchasing Software | Procure-to-Pay SaaS ,Winter 2021,Active,"['fintech', 'saas', 'b2b']",4,-1,15.517004,-16.284826
-27817,JustPaid,Billing Automation for B2B that actually works.,Winter 2023,Active,"['ai-enhanced-learning', 'artificial-intelligence', 'fintech', 'ai', 'ai-assistant']",3,-1,-3.247658,2.681695
-1294,Scale AI,Data-centric infrastructure to accelerate the development of AI ,Summer 2016,Active,"['artificial-intelligence', 'machine-learning']",1,-1,1.2810762,-15.863975
-26764,Tranch,Tranch is the invoice to payments platform for enterprises.,Summer 2022,Acquired,"['fintech', 'saas']",6,-1,-8.803965,8.16729
-202,PagerDuty,Real-time visibility into critical apps and services all in one place.,Summer 2010,Public,"['devops', 'monitoring']",0,-1,5.8036256,0.7993468
-22948,MarcoPolo,Alibaba for Latin America,Winter 2021,Inactive,"['marketplace', 'b2b']",5,-1,-20.476534,10.213515
-1657,Honeydue,"The simplest way for couples to manage money, together",Summer 2017,Acquired,['fintech'],6,-1,-5.9388604,6.51648
-432,OctaveWealth,The 401(k) that helps you grow,Summer 2012,Active,"['finance', 'investing']",6,-1,-13.874457,14.567964
-13217,Altay Therapeutics,Altay develops disease-modifying therapies targeting transcription…,Winter 2020,Active,"['ai-powered-drug-discovery', 'biotech', 'therapeutics', 'drug-discovery']",7,-1,-4.574644,21.52576
+525,StackMachine,Instant sandboxed server environments,Summer 2013,Inactive,"['developer-tools', 'devops', 'cloud-computing']",11,-1,3.2010586,17.704378
+12582,Pair Team,Connecting underserved communities to high quality care,Summer 2019,Active,"['health-tech', 'workflow-automation', 'digital-health', 'healthcare', 'healthcare-it']",6,-1,9.042495,-14.862177
+29952,Ficra,"Real time, source of truth for every product screen and user flow",Summer 2024,Active,"['artificial-intelligence', 'b2b', 'workflow-automation', 'productivity', 'design-tools']",1,-1,8.18764,-1.83753
+30467,Opusense AI,AI for Field Inspection Reports,Spring 2025,Active,"['saas', 'construction', 'b2b']",1,-1,-3.9312942,3.8846722
+21799,Conta Simples,All-in-one financial platform for latam Startups and SMBs.,Summer 2020,Active,"['fintech', 'latin-america', 'smb']",5,-1,-22.489136,-8.647321
+1553,No Lean Season,A bus ticket out of poverty,Winter 2017,Inactive,['nonprofit'],0,-1,-11.912612,-16.092394
+662,Checkr,People infrastructure for the future of work,Summer 2014,Active,"['compliance', 'hr-tech', 'api', 'enterprise-software', 'ai']",10,-1,-5.6257815,-6.118178
+29741,Dimely,AI agents for B2B SaaS Finance Teams,Summer 2024,Active,[],1,-1,1.3148825,-4.097107
+11948,Centaur Labs,Labeling medical data at scale,Winter 2019,Active,"['artificial-intelligence', 'crowdsourcing', 'data-labeling']",6,-1,-9.225184,7.5049605
+29324,PromptArmor,LLM Security and Compliance,Winter 2024,Active,"['artificial-intelligence', 'generative-ai', 'security', 'cybersecurity']",13,-1,6.299772,8.793996
+22903,Finary.com,The new wealth manager for Europe,Winter 2021,Active,"['fintech', 'investing', 'neobank']",5,-1,-21.63422,-3.7098823
+25515,Whiz,"Transforming Finances, Maximizing Your Money Potential.",Winter 2022,Inactive,"['fintech', 'payments', 'consumer', 'neobank']",5,-1,-20.787516,-3.5336883
+493,RADAR,RADAR is building technology to completely transform the in-store…,Winter 2013,Active,"['artificial-intelligence', 'retail-tech']",13,-1,-6.7276835,-15.84141
+25120,Elevate (formerly Bloom),US based USD accounts for non-US residents ,Winter 2022,Active,"['fintech', 'payments', 'consumer', 'neobank']",5,-1,-20.064201,-9.987146
+15,Amiato,The BI bridge for unstructured data. We automatically bridge the gap…,Winter 2012,Acquired,"['analytics', 'big-data']",1,-1,-0.5959443,6.848719
+22995,QuickNode,Tools & infra to build and scale high-quality blockchain applications.,Winter 2021,Active,"['developer-tools', 'saas', 'crypto-web3', 'api']",11,-1,1.8871629,13.607443
+27809,EdgeBit,Autofix your software dependencies,Winter 2023,Acquired,"['devsecops', 'b2b', 'security']",11,-1,19.574844,3.0728192
+12095,Upsolve,Helping low-income Americans overcome debt and rebuild credit at…,Winter 2019,Active,"['fintech', 'nonprofit', 'legaltech', 'consumer-finance']",0,-1,-2.1070788,4.653846
+23357,Treinta,Digital ledger App for Latam microbusinesses,Winter 2021,Active,"['saas', 'b2b']",5,-1,-22.860956,-8.313404
+435,Profig,The phone system for businesses. Manage everything from your company…,Summer 2012,Inactive,['telecommunications'],3,-1,-8.122027,-1.8711044
+13185,Operator Labs,"Building protocols for the intelligent, decentralized web.",Winter 2020,Active,"['generative-ai', 'crypto-web3', 'data-engineering']",14,-1,2.8127835,14.778172
+27704,FlexDesk,One platform for corporate occupiers to manage their office portfolios,Winter 2023,Active,"['real-estate', 'b2b', 'hr-tech', 'proptech']",3,-1,-6.9645433,-13.202668
+22752,ClipDrop,Turn regular mobile photos into professional product visuals,Winter 2021,Acquired,"['saas', 'computer-vision', 'design-tools']",9,-1,-2.9799798,-17.331818
+27816,OpenSight,AI-powered customer support automation for fast-growing companies,Winter 2023,Inactive,"['generative-ai', 'b2b', 'customer-success', 'customer-support']",1,-1,-1.4723643,2.610228
+29124,Onward,Intelligent meeting automation for ambitious teams.,Summer 2023,Inactive,[],1,-1,4.5827737,-2.5147264
+46,BarSense,Kid's first smartphone with web-based parental controls.,Winter 2012,Inactive,['kids'],11,-1,-4.4064126,17.905651
+25449,Alixia,Targeting the Tumor Ecosystem to address cancer drug resistance.,Winter 2022,Active,"['biotech', 'therapeutics', 'drug-discovery', 'oncology', 'biotechnology']",7,-1,-21.785479,10.590186
+12073,Fuse,Unified API for financial data aggregators.,Winter 2019,Inactive,"['fintech', 'saas', 'b2b']",5,-1,-21.818071,-11.018648
+405,HealthSherpa,Private sector Healthcare.gov. ,Summer 2012,Active,"['health-tech', 'health-insurance']",6,-1,5.4093637,-13.595057
+30948,Lua Global Inc,"Self-Serve AI powered Sales, Support & Booking Agents",Fall 2025,Active,"['saas', 'b2b', 'retail-tech']",1,-1,3.5875819,0.021417918
+30651,Alter,Secure access control and authorization platform for agent workflows,Summer 2025,Active,"['aiops', 'artificial-intelligence', 'developer-tools', 'devsecops', 'security']",11,-1,3.6561403,10.071672
+27924,OutSail Technologies,"Revolutionary, Modern Wing Sails",Winter 2023,Inactive,"['logistics', 'climate', 'climatetech']",15,-1,-12.758051,17.656633
+914,GiveCampus,The fundraising platform for schools.,Summer 2015,Active,"['education', 'fintech', 'saas', 'b2b']",2,-1,-0.88868254,-12.29084
+642,OpenCurriculum,Helping K-12 teachers and school administrators build awesome…,Winter 2014,Active,"['artificial-intelligence', 'education']",2,-1,20.654991,-6.395417
+24600,Algofi,Building the new financial system,Summer 2021,Inactive,['crypto-web3'],5,-1,2.8415382,15.345314
+25757,AntWalk,An employee up-skilling platform for fast growing companies,Winter 2022,Inactive,"['education', 'elearning', 'enterprise']",1,-1,16.47717,-7.3321514
+22677,GroMo,App for independent agents to sell financial products in India,Winter 2021,Active,"['fintech', 'insurance']",5,-1,-15.232265,-7.783939
+29271,DGI Apparel,Expedia for ordering blank apparel,Winter 2024,Inactive,[],9,-1,-3.8453875,-0.3028781
+298,Popcuts,Popcuts is an online music store where fans participate in the…,Summer 2008,Inactive,"['marketplace', 'e-commerce', 'music']",9,-1,-4.504981,-15.174357
+1731,Blueberry Pediatrics,24/7 pediatric clinic in every family's living room,Winter 2018,Active,"['consumer-health-services', 'health-tech', 'telehealth', 'pediatrics', 'digital-health']",16,-1,9.739062,-17.701939
+25935,Topship,Flexport for African Merchants - Building the OS for Global Logistics,Winter 2022,Active,"['b2b', 'logistics', 'e-commerce', 'supply-chain']",3,-1,-15.969894,-10.5170355
+29501,Fume,We are building the AI Software Developer,Winter 2024,Active,"['artificial-intelligence', 'developer-tools', 'b2b']",13,-1,12.423429,3.6731462
+1277,SmartPath,Financial wellness for the middle class,Summer 2016,Active,['fintech'],5,-1,-19.045755,-5.000559
+30938,Imagine AI,AI agent that handles all of your B2B content needs,Fall 2025,Active,"['saas', 'b2b', 'sales']",1,-1,2.4033952,0.21274173
+769,HigherMe,Helping restaurant employers find & hire better employees faster,Winter 2015,Acquired,"['saas', 'hr-tech', 'restaurant-tech']",0,-1,-5.4463305,-7.119377
+758,Cribspot,Tech-Enabled Real Estate Company (YC W15),Winter 2015,Inactive,"['real-estate', 'proptech']",10,-1,-11.184385,-2.0585408
+29105,FlowiseAI,Open source GenAI development platform,Summer 2023,Acquired,"['artificial-intelligence', 'developer-tools', 'generative-ai', 'open-source']",12,-1,13.016018,1.8011893
+25746,Durioo,Streaming Platform for Muslim Children,Winter 2022,Active,"['entertainment', 'subscriptions']",2,-1,23.012318,-4.8012795
+25347,Perl Street,Financing the next-generation of infrastructure projects,Winter 2022,Active,['climate'],15,-1,-13.282422,11.438719
+29259,Newton,AI-powered phone platform for dentists,Winter 2024,Active,[],6,-1,11.6536665,-8.017307
+30762,Kernel,Crazy Fast Browsers-as-a-Service,Summer 2025,Active,"['artificial-intelligence', 'developer-tools', 'cloud-computing', 'infrastructure']",11,-1,3.6763597,12.98069
+27870,Langfuse,Open source LLM engineering platform,Winter 2023,Active,"['developer-tools', 'generative-ai', 'analytics', 'open-source', 'ai']",8,-1,11.342269,12.589361
+26756,IvyCheck,Clean and enrich your data 10x faster,Summer 2022,Active,"['generative-ai', 'b2b', 'data-engineering', 'ai', 'databases']",1,-1,7.796204,4.914419
+1749,CoinTracker,The gold standard in cryptocurrency portfolio tracking and taxes,Winter 2018,Active,"['fintech', 'saas', 'crypto-web3', 'consumer']",10,-1,-14.536621,-1.9452881
+1737,Rhythmm,Read interesting conversations,Winter 2018,Inactive,"['community', 'social']",0,-1,3.3800333,-8.21062
+27701,Backdrop,"Vertical SaaS for $650B+ Film, TV, Music & Event Production Industry ",Winter 2023,Active,"['fintech', 'b2b', 'entertainment', 'enterprise-software', 'ai']",3,-1,-0.16340894,-5.768245
+29727,Overstand Labs,We help business leaders get back into Founder Mode,Winter 2025,Active,"['customer-success', 'api', 'customer-support', 'ai']",1,-1,-1.3928367,1.6042793
+28851,Bronco AI,AI for ASIC Design Verification,Summer 2023,Active,"['artificial-intelligence', 'b2b', 'enterprise-software', 'semiconductors']",13,-1,11.666845,7.285719
+30196,Stamp,The AI Native Email Client,Winter 2025,Active,[],14,-1,18.871265,5.567397
+1745,Worklytics,Analytics to improve how teams work and collaborate,Winter 2018,Active,"['human-resources', 'productivity']",3,-1,-2.9658818,8.436875
+24129,Cabal,"Private workspace for founders, investors, and advisors to collaborate",Summer 2021,Active,"['saas', 'b2b', 'community']",10,-1,-2.7317894,-7.085992
+30918,ComplyDo,"More Comply, Less Do. Most flexible compliance engine for enterprises.",Fall 2025,Active,"['artificial-intelligence', 'saas', 'b2b', 'legaltech', 'cybersecurity']",13,-1,11.262765,-4.258734
+446,Flightfox,"A platform to plan, book and manage global and group travel.",Summer 2012,Active,"['b2b', 'travel']",3,-1,-16.099957,-16.394072
+25615,BharatX,Enable Buy-Now-Pay-Later in a White-Labelled Manner,Winter 2022,Acquired,"['fintech', 'consumer']",5,-1,-16.354391,-6.3727117
+1594,Bloom Institute of Technology,The online coding school that invests in you.,Summer 2017,Active,"['education', 'fintech']",2,-1,18.191051,-5.934238
+13061,Hideout,A portfolio of delivery-only restaurant brands,Winter 2020,Inactive,['ghost-kitchens'],9,-1,-10.201445,-9.82029
+23259,Haystack,Delivery Analytics for Software Teams,Winter 2021,Active,['analytics'],11,-1,-2.7317042,9.287991
+30115,SRE.ai,AI DevOps Agents,Fall 2024,Active,"['artificial-intelligence', 'developer-tools', 'b2b', 'devops', 'infrastructure']",1,-1,6.308237,5.4384255
+25776,Partna,Your Global payments partner for Africa,Winter 2022,Active,['fintech'],5,-1,-17.416483,-9.684755
+25977,yhangry,Marketplace for private chefs,Winter 2022,Active,['marketplace'],0,-1,-10.599925,-13.882046
+22870,Care Weather,The highest-accuracy global weather data from low-cost flat satellites,Winter 2021,Active,"['hard-tech', 'space-exploration', 'satellites', 'weather', 'agriculture']",10,-1,-10.946755,19.073647
+27690,Credal.ai,Harness Frontier Intelligence by building AI assistants that can…,Winter 2023,Active,"['generative-ai', 'cybersecurity', 'enterprise', 'ai']",1,-1,7.808463,3.6521568
+24330,Matidor.com,Project management on a live map,Summer 2021,Active,"['saas', 'geographic-information-system', 'b2b']",4,-1,-4.7592764,1.6639018
+22669,Stacksi,Automated Answers to Security Questionnaires,Winter 2021,Acquired,"['compliance', 'cybersecurity']",13,-1,20.914968,1.0241097
+24390,Dot,Chat with your Data Warehouse,Summer 2021,Active,"['artificial-intelligence', 'saas', 'b2b', 'analytics', 'enterprise']",1,-1,0.24109054,8.658122
+193,GazeHawk,Eyetracking using webcams.,Summer 2010,Acquired,['computer-vision'],11,-1,-6.433381,19.875666
+29021,Fragment,Turn manual operations into scalable processes,Summer 2023,Active,[],1,-1,9.7934265,-1.9706321
+24302,OneStopKitchen,AI-Driven Tech & Space Optimization to Scale Restaurants,Summer 2021,Active,"['ghost-kitchens', 'e-commerce', 'ai']",9,-1,-9.887512,-10.048966
+30350,TrainLoop,Reasoning Fine-Tuning,Winter 2025,Active,"['developer-tools', 'generative-ai', 'reinforcement-learning']",8,-1,10.731481,14.76426
+23597,Kilobaser,Desktop DNA Printer. The Nespresso Machine for DNA.,Winter 2021,Active,"['hard-tech', 'hardware', 'medical-devices']",7,-1,-18.043331,10.089896
+12039,Termius,Termius is an SSH client with team collaboration features,Winter 2019,Active,"['developer-tools', 'devsecops', 'iot-security']",11,-1,19.927921,9.798015
+30126,Roundabout Technologies,Software for AI-powered traffic lights,Fall 2024,Active,[],13,-1,8.282249,11.308436
+13506,Nomic Bio,Nomic is doing for proteins what Illumina has done for DNA,Winter 2020,Active,['nanotechnology'],7,-1,-19.156483,9.104959
+22833,Lendflow,Embedded lending infrastructure for software companies,Winter 2021,Active,['lending'],5,-1,-19.088991,-1.473006
+26121,Cinapse,The Operating System of Hollywood,Winter 2022,Active,"['saas', 'b2b', 'entertainment', 'productivity', 'enterprise']",3,-1,0.036535542,-6.3674974
+21864,Farmako Healthcare,India's fastest medicine delivery in just 30 minutes,Summer 2020,Active,"['health-tech', 'delivery', 'digital-health', 'healthcare']",16,-1,6.9300365,-15.971765
+25586,Soon,"Automated sweep account, invest without the stress of speculating",Winter 2022,Active,"['fintech', 'crypto-web3', 'investing']",5,-1,-23.370747,-4.394915
+27985,Loula,Enabling birth & postpartum doulas to easily accept Medicaid,Winter 2023,Active,"['health-tech', 'digital-health', 'healthcare', 'health-insurance', ""women's-health""]",16,-1,8.450909,-20.850908
+22260,Clover,"The all-in-one notebook for creatives to brainstorm, write, and plan…",Summer 2020,Acquired,"['productivity', 'note-taking']",14,-1,18.789015,11.264711
+499,MedXT,"Radiology in the cloud.  X-rays, CAT scans, MRI's, and…",Winter 2013,Acquired,"['health-tech', 'medical-devices']",6,-1,11.424138,-14.420092
+13242,Quill,Fullstack API and management platform for dashboards and reporting,Winter 2020,Active,"['saas', 'analytics', 'api', 'data-visualization']",11,-1,0.52654636,10.8228245
+794,Rare Door,Empowering brick-and-mortar retailers to sell more and engage shoppers,Winter 2015,Inactive,"['e-commerce', 'retail']",9,-1,-7.889818,-16.32684
+29660,Hyrex,The COLD Task Framework,Summer 2024,Active,"['aiops', 'developer-tools', 'cloud-computing', 'infrastructure']",11,-1,-2.9647696,6.7185683
+1088,flexEngage,Dynamic transactional communications for physical stores to help…,Winter 2016,Acquired,"['analytics', 'retail']",0,-1,-6.672157,-13.938331
+5,CircuitHub,On-Demand Electronics Manufacturing,Winter 2012,Active,"['hard-tech', 'hardware', 'robotics', 'manufacturing', 'automation']",15,-1,-10.286497,15.09866
+240,Stripe,Economic infrastructure for the internet.,Summer 2009,Active,"['banking-as-a-service', 'fintech', 'saas']",0,-1,-14.045308,-4.7321596
+22703,Bluelight,"Analytics, built for the trades.",Winter 2021,Active,"['saas', 'b2b', 'analytics']",3,-1,-6.8402433,2.09392
+1621,Advano,Advano is a battery technology company that improve the longevity of…,Summer 2017,Active,"['energy-storage', 'hard-tech', 'climate']",15,-1,-14.599623,15.470678
+1617,Mystery.org,We help kids stay curious by creating better explanations.,Summer 2017,Acquired,"['education', 'elearning']",2,-1,21.491714,-6.705515
+28045,Peeba,Risk-free wholesale for retailers across Southeast Asia,Winter 2023,Active,"['fintech', 'marketplace', 'b2b', 'retail']",9,-1,-16.123127,-12.636867
+1726,Mayhem,Mayhem is the easiest way to play with your gaming community.,Winter 2018,Acquired,['gaming'],4,-1,3.4003346,-7.166795
+45,LVL6,We make mobile MMOs. ,Winter 2012,Inactive,['gaming'],9,-1,-6.541547,7.5719643
+1244,Symple,Last mile logistics for delivery & service teams. We bring real-time…,Summer 2016,Acquired,"['delivery', 'logistics']",3,-1,-5.5892663,-11.021316
+30544,Wavedash,Play the latest games in your browser with no downloads,Spring 2025,Active,"['consumer', 'gaming', 'web-development', 'ai']",11,-1,5.0891438,-5.5153403
+30106,Sunset,Find and move money after a death,Fall 2024,Active,"['fintech', 'consumer-finance']",10,-1,-24.284708,-3.725607
+29577,Variant,Creative intelligence,Fall 2024,Active,"['developer-tools', 'design-tools', 'ai']",14,-1,16.574312,7.395045
+29305,SynsoryBio,"""If-then"" conditional logic for protein drugs",Winter 2024,Active,"['synthetic-biology', 'biotech', 'therapeutics', 'oncology']",7,-1,-20.36842,9.291242
+653,Backpack,Marketplace to get stuff from overseas,Summer 2014,Active,"['marketplace', 'international']",9,-1,-11.750871,-17.525007
+29527,ParcelBio,Next-generation mRNA medicines,Winter 2024,Active,"['gene-therapy', 'biotech', 'healthcare', 'drug-delivery', 'therapeutics']",7,-1,-21.217976,7.9805045
+25658,Plumter,Easy foreign payments for African merchants,Winter 2022,Active,['fintech'],5,-1,-17.396172,-9.6373005
+22955,Coderhouse,Effective and accessible online live education.,Winter 2021,Active,"['education', 'elearning', 'community']",2,-1,18.57219,-6.626072
+22323,CapWay,Inclusive financial technology service provider.,Summer 2020,Inactive,"['fintech', 'saas', 'consumer', 'enterprise', 'neobank']",5,-1,-18.279016,-4.704358
+28883,Transformity,Point-of-sale & Vertical SaaS for the $75B Liquor Industry,Summer 2023,Active,[],9,-1,-8.228153,-11.329953
+24250,Breadcrumbs.io,No-code scoring engine identifying your most engaged upsell opps,Summer 2021,Active,"['analytics', 'no-code']",1,-1,-1.2344981,-0.22680894
+1452,lvl5,HD maps for self-driving cars.,Winter 2017,Acquired,"['autonomous-trucking', 'self-driving-vehicles']",13,-1,6.007713,20.74055
+935,Seva Coffee,"We're changing the world of coffee, one personalized cup at a time.",Summer 2015,Inactive,"['e-commerce', 'personalization']",9,-1,-12.174174,-7.8015814
+13511,Sakneen,Shopify for Real Estate Developers,Winter 2020,Active,"['saas', 'housing']",9,-1,-10.528069,-4.169609
+26882,Coris,"AI-powered risk platform for Payment Providers, Banks, SaaS platforms…",Summer 2022,Active,"['fintech', 'b2b', 'compliance', 'ai']",1,-1,-16.268702,-3.791398
+28920,Unhaze,The right leads at the right time for B2B sales,Summer 2023,Inactive,"['saas', 'b2b', 'sales', 'ai']",1,-1,-0.9223753,-1.7626488
+1535,"Wifi Dabba, Inc.",Decentralised broadband connectivity.,Winter 2017,Active,"['hardware', 'crypto-web3', 'telecommunications']",9,-1,-12.050743,5.436628
+22106,Letter,Beautifully designed banking for high net-worth individuals.,Summer 2020,Inactive,['fintech'],5,-1,-20.447565,-4.969882
+25827,Talentropy.ai,AI solution that streamlines candidate screening and recruitment,Winter 2022,Active,"['saas', 'b2b', 'hr-tech', 'ai']",1,-1,3.0358365,-2.2219565
+30771,Flywheel AI,Waymo for excavators,Summer 2025,Active,"['deep-learning', 'hardware', 'construction']",13,-1,7.6400456,18.604156
+12740,Khabri,India's Largest Podcast Platform,Summer 2019,Inactive,"['india', 'podcasts']",10,-1,17.0676,-11.469304
+882,Hickory,Hickory turns your employees into experts.,Summer 2015,Inactive,['education'],10,-1,15.532721,-8.264499
+23412,Axolo,Improving Developer Experience with Streamlined Code Reviews,Winter 2021,Active,"['developer-tools', 'saas']",14,-1,13.248315,10.340959
+29315,Attunement,Automation workflow for psychiatric assessments.,Winter 2024,Active,"['artificial-intelligence', 'workflow-automation', 'healthcare']",6,-1,6.701908,-7.674057
+30770,Vibe Code Go,Code from your phone,Summer 2025,Active,"['artificial-intelligence', 'developer-tools', 'saas']",14,-1,15.120395,9.430654
+22617,Serna Bio,Genetic Medicine with Small Molecules ,Winter 2021,Active,"['biotech', 'drug-discovery']",7,-1,-20.88159,8.663946
+27926,Variance,World-Class Tooling for Trust & Safety teams,Winter 2023,Active,"['compliance', 'cybersecurity', 'enterprise-software', 'trust-&-safety', 'ai']",13,-1,6.4013433,10.40916
+29719,Manaflow,Build internal tools for AI using natural language,Summer 2024,Active,"['artificial-intelligence', 'developer-tools', 'b2b', 'operations']",4,-1,11.976228,0.6893622
+27252,Landeed,Landeed is India's fastest property title search engine ,Summer 2022,Active,"['documents', 'fintech', 'civic-tech', 'proptech', 'insurance']",4,-1,2.8591888,-20.354769
+1225,Nova Credit,Bridging a world of consumer-permissioned credit data,Summer 2016,Active,"['fintech', 'data-science']",5,-1,-17.616858,-2.6107578
+12393,Shef,Shef is a Marketplace for Homemade Food,Winter 2019,Active,"['marketplace', 'consumer', 'food', 'food-tech']",0,-1,-10.736297,-13.7215
+22706,Curvenote,Communication and publishing tools for scientists,Winter 2021,Active,"['documents', 'developer-tools', 'saas']",14,-1,18.08589,12.638602
+12070,Doppler,The first SecretOps Platform.,Winter 2019,Active,"['developer-tools', 'devsecops', 'security']",11,-1,-0.42402261,12.526569
+2004,SkydropX,Logistic Management System for E-commerce & Retail in Mexico. ,Summer 2018,Active,"['marketplace', 'saas', 'logistics']",3,-1,-5.3039746,-11.962773
+29362,Pythagora,Worlds first all-in-one AI development platform.,Winter 2024,Active,"['artificial-intelligence', 'developer-tools', 'security', 'web-development']",12,-1,15.294171,2.7929742
+29370,Browser Buddy,Internet discovery engine,Winter 2024,Active,"['consumer', 'ai']",1,-1,2.108154,5.7035837
+30542,LineWise,AI Agent to troubleshoot manufacturing issues,Spring 2025,Active,"['generative-ai', 'computer-vision', 'manufacturing', 'operations']",13,-1,9.293836,6.00913
+23398,Prospa,Banking for businesses in Nigeria,Winter 2021,Active,"['fintech', 'b2b']",5,-1,-18.81708,-7.242647
+30426,Approval AI,"One-click mortgage: AI shops, negotiates, and handles your application",Spring 2025,Active,"['fintech', 'consumer', 'ai']",1,-1,3.4929376,3.747438
+24258,Enerjazz,Making electric vehicle batteries affordable ,Summer 2021,Active,['climate'],15,-1,-14.893169,16.383127
+27664,Infisical,"Unified platform for secrets, certs, and privileged access management",Winter 2023,Active,"['developer-tools', 'saas', 'b2b', 'security', 'open-source']",11,-1,4.652687,10.487097
+12006,AI Insurance,AI Insurance is the platform that runs insurance companies,Winter 2019,Active,"['artificial-intelligence', 'insurance']",1,-1,4.2638116,3.1667292
+26311,WhiteLab Genomics,Unleashing the potential of DNA and RNA based therapies using AI,Winter 2022,Active,"['artificial-intelligence', 'gene-therapy', 'cell-therapy', 'genomics']",7,-1,-19.51483,11.045004
+131,Hungry Labs,Now part of Snaplayer.,Summer 2011,Inactive,[],11,-1,-10.46564,-8.863126
+990,MagicBus,We make vanpool simple.,Winter 2016,Active,['transportation'],3,-1,-2.6849895,-8.4891405
+30205,Scout,AI-powered student information system for K-12 schools,Winter 2025,Active,"['education', 'workflow-automation', 'ai']",13,-1,21.156307,-1.7319824
+30885,Semble AI,Autonomous fire and life-safety systems engineer,Fall 2025,Active,"['artificial-intelligence', 'saas', 'design-tools']",13,-1,12.507392,7.3087745
+1221,Iris Automation,Enabling autonomous drone operations globally through AI software,Summer 2016,Acquired,"['drones', 'computer-vision', 'ai']",13,-1,11.520828,18.703268
+30655,Frizzle,AI Grading for Teachers,Summer 2025,Active,"['education', 'saas', 'b2b', 'productivity', 'ai']",2,-1,19.613512,-2.47545
+13340,Able,India's Largest Placement Platform for Early Professionals,Winter 2020,Acquired,"['consumer', 'india', 'edtech']",1,-1,16.97112,-11.281777
+22720,Smartcuts,Chrome extension to turn clicks & keystrokes into no-code automations,Winter 2021,Active,"['no-code', 'automation']",14,-1,-1.9182419,-19.17005
+30554,Bond,"Building Donna, your AI Chief of Staff",Spring 2025,Active,"['generative-ai', 'b2b', 'workflow-automation']",1,-1,9.94524,-1.1580945
+28802,Sohar Health,AI-powered insurance verification to boost patient conversion.,Summer 2023,Active,"['artificial-intelligence', 'health-tech', 'digital-health', 'api', 'data-science']",6,-1,7.8040357,-10.621717
+21789,Gather,Project management software for People Operations,Summer 2020,Acquired,"['saas', 'b2b', 'hr-tech']",3,-1,-5.017979,-2.5465796
+1048,Plato,Plato is the mentorship platform for engineering leaders,Winter 2016,Acquired,[],13,-1,16.461128,2.4890213
+1747,Glowing.io,"Unified, enterprise messaging platform for leading brands of the world",Winter 2018,Active,"['saas', 'b2b', 'messaging']",3,-1,-6.3835545,-0.6713649
+26066,Query Vary,No-Code LLM Application / Workflow Builder,Winter 2022,Active,"['aiops', 'artificial-intelligence', 'developer-tools', 'b2b', 'ai']",1,-1,12.38828,12.628504
+1520,Reliance Health,We make healthcare in emerging markets affordable and accessible,Winter 2017,Active,"['health-tech', 'digital-health', 'healthcare', 'health-insurance']",16,-1,6.1220613,-14.595005
+30059,Sphinx,AI Compliance Analysts for Banks & Fintechs,Fall 2024,Active,[],1,-1,8.6849575,-3.7067263
+26033,Heptabase,The visual note-taking tool for learning complex topics.,Winter 2022,Active,"['assistive-tech', 'saas', 'consumer', 'productivity', 'note-taking']",14,-1,17.945236,10.636835
+13108,yearend,Optimize your equity and taxes in real-time.,Winter 2020,Active,"['fintech', 'finance']",10,-1,-23.220106,-2.0748086
+21862,Dialect,Making internet experiences distributable and actionable everywhere,Summer 2020,Active,"['crypto-web3', 'b2b']",9,-1,-11.972485,5.1497703
+29801,Rescript,AI Regulatory Analyst for Enterprises,Summer 2024,Active,"['saas', 'civic-tech', 'b2b', 'legaltech', 'ai']",1,-1,8.630148,-6.0260396
+29246,Tracecat,All-in-one AI automation platform for security and IT teams,Winter 2024,Active,"['artificial-intelligence', 'productivity', 'open-source', 'enterprise', 'ai']",1,-1,7.633285,-0.17438309
+28425,Pando Bioscience,Gen-AI Designed Enzymes for Pharmaceutical Innovation,Winter 2023,Active,"['generative-ai', 'synthetic-biology', 'biotech', 'diagnostics']",7,-1,-18.474632,11.266632
+26811,Payload,Developer-First Headless CMS and Application Framework,Summer 2022,Acquired,"['developer-tools', 'open-source', 'api']",11,-1,-3.3346763,10.772911
+27860,Dream3D,Generative AI Worlds,Winter 2023,Active,"['generative-ai', 'computer-vision', 'ai']",14,-1,15.104185,7.1870213
+29784,Sensei,Robotic Training Data at Scale,Summer 2024,Active,"['artificial-intelligence', 'hard-tech', 'marketplace', 'robotics', 'data-engineering']",13,-1,7.7519264,15.470793
+829,Seed,Mobile banking for small business.,Winter 2015,Acquired,['fintech'],5,-1,-19.079561,-6.7222633
+30730,Idler,Scale AI for reinforcement learning environments. ,Summer 2025,Active,"['artificial-intelligence', 'reinforcement-learning', 'data-engineering', 'enterprise-software']",12,-1,8.37447,14.445826
+29591,Synnax,Unified Hardware Control and Data Processing Software,Summer 2024,Active,[],3,-1,-0.09370086,16.058836
+27959,Vitalize,The OS for Hospital Operations,Winter 2023,Active,"['saas', 'b2b', 'healthcare']",16,-1,6.4006534,-17.984562
+29201,Legora (formerly Leya),The AI workspace for lawyers,Winter 2024,Active,"['generative-ai', 'legaltech', 'ai']",12,-1,13.096997,13.485338
+424,Hipset,The best way for artists to release new music and videos.,Summer 2012,Inactive,"['entertainment', 'video', 'music']",9,-1,0.32226077,-7.7896433
+30697,Normal,"Modern compliance for drones, robots, IoT, and beyond",Summer 2025,Active,"['hardware', 'compliance', 'manufacturing', 'ai', 'industrial']",13,-1,11.718437,-4.0772214
+11934,Positive,B2B supplier of fresh/healthy packaged food,Winter 2019,Active,"['consumer', 'logistics', 'supply-chain', 'food-tech', 'retail']",9,-1,-13.425429,-12.879915
+29328,Guide Labs,Interpretable AI models and agents that are easy to audit and…,Winter 2024,Active,[],12,-1,9.933995,8.428118
+13536,Syncro,Zapier for scaling high-touch talent management,Winter 2020,Inactive,"['workflow-automation', 'recruiting']",3,-1,-3.3644226,-4.868099
+27808,Salient,AI Servicing for Auto Lenders,Winter 2023,Active,"['artificial-intelligence', 'fintech', 'generative-ai', 'b2b', 'operations']",1,-1,3.7080467,4.135456
+26897,AviaryAI,Outbound AI voice agents for the financial services industry,Summer 2022,Active,"['fintech', 'b2b', 'ai', 'ai-assistant']",1,-1,4.647167,2.837179
+469,9gag,Make the world happier.,Summer 2012,Active,"['social-media', 'social', 'social-network']",0,-1,2.4661844,-6.4890056
+25273,Agave,Data infrastructure for Construction,Winter 2022,Active,"['saas', 'construction', 'b2b', 'proptech']",3,-1,-4.457283,3.592274
+24691,Orderli,Square for Europe,Summer 2021,Active,"['saas', 'b2b', 'e-commerce']",9,-1,-10.167313,-11.465883
+22083,HENRY,We train AI engineers and connect them with companies.,Summer 2020,Active,"['ai-enhanced-learning', 'b2b', 'recruiting', 'latin-america', 'talent-acquisition']",1,-1,7.8570013,6.617825
+30409,Notus Autonomous Systems,Swarm robotics and full AI-command hierarchy integration,Spring 2025,Active,"['artificial-intelligence', 'robotics', 'drones', '3d-printing']",13,-1,11.905552,18.31625
+24443,Inflow,A self-help app for people to manage their ADHD.,Summer 2021,Active,"['mental-health-tech', 'consumer-health-services']",6,-1,12.119653,-10.177933
+30292,Mesh,Building your AI finance co-worker,Winter 2025,Active,[],4,-1,11.519634,-0.0891482
+1483,Entry,Biometric sign in and identity verification platform,Winter 2017,Inactive,"['machine-learning', 'biometrics', 'ai']",6,-1,4.812233,8.596834
+570,Echo Locker,Android lock screen,Summer 2013,Acquired,[],10,-1,1.0812112,22.751905
+27267,Ping,The global neo-bank for contractors and freelancers,Summer 2022,Active,"['crypto-web3', 'payments', 'neobank']",5,-1,-19.130905,-10.829625
+29118,Waldium,Build AI-optimized blogs that rank in AI search results ,Summer 2023,Active,"['developer-tools', 'analytics', 'ai']",1,-1,9.810601,4.661956
+30668,Wedge,Palantir for Healthcare AI Agents,Summer 2025,Active,"['artificial-intelligence', 'saas', 'health-tech', 'healthcare']",6,-1,6.7746625,-9.310895
+30791,Spotlight Realty,AI powered brokerage reducing residential rental commissions in NYC…,Summer 2025,Active,"['machine-learning', 'real-estate']",1,-1,1.7682405,3.8613217
+30241,ZeroEntropy,High accuracy search API over unstructured data.,Winter 2025,Active,[],1,-1,0.3139601,5.833239
+1521,Apozy,Apozy makes every website safe to browse,Winter 2017,Active,['security'],11,-1,4.0861382,12.183925
+507,Zenefits,"HR for small businesses: onboarding, payroll and benefits.",Winter 2013,Acquired,['hr-tech'],0,-1,-5.8034315,-6.902464
+27221,CAPSULE,Buy anything you find on social media,Summer 2022,Inactive,"['artificial-intelligence', 'generative-ai', 'machine-learning', 'computer-vision', 'e-commerce']",9,-1,-3.7662957,-17.27088
+22969,LightTwist,Record video in a photorealistic virtual studio all from your browser,Winter 2021,Active,"['augmented-reality', 'computer-vision', 'design-tools']",11,-1,9.415307,22.650951
+999,Focal Systems,Building the Operating System for B&M Retail using Deep Learning,Winter 2016,Active,"['deep-learning', 'grocery', 'computer-vision']",9,-1,-7.36811,-14.947278
+22970,Veera Health,We treat women with Polycystic Ovary Syndrome in India,Winter 2021,Active,"['consumer-health-services', 'femtech']",16,-1,5.7548428,-16.445467
+26730,Mocke,Mock email campaigns: know your reply rate 1 min without launch,Summer 2022,Active,"['artificial-intelligence', 'b2b', 'sales']",1,-1,0.12971476,1.0182889
+29182,Upsolve AI,Embed GenBI in Your SaaS App,Winter 2024,Active,"['artificial-intelligence', 'developer-tools', 'b2b', 'analytics', 'big-data']",1,-1,-1.7065632,4.41826
+24601,Humane Genomics,A platform to make artificial viruses as cancer therapeutics.,Summer 2021,Active,"['hard-tech', 'synthetic-biology']",7,-1,-19.880133,11.182007
+30290,Tire Swing,AI for Healthcare Compliance,Winter 2025,Active,"['health-tech', 'compliance', 'legal', 'healthcare', 'health-insurance']",6,-1,8.290464,-7.513854
+158,Fivestars,Customer loyalty and payments platform for small businesses.,Winter 2011,Acquired,"['fintech', 'marketplace']",0,-1,-13.183606,-9.324631
+29415,Givefront,Nonprofit Financial Management,Winter 2024,Active,[],5,-1,-0.86874217,-12.313523
+25650,NearWave,Helping physicians select the right therapy for breast cancer patients,Winter 2022,Active,"['artificial-intelligence', 'hard-tech', 'hardware', 'saas', 'medical-devices']",6,-1,9.374692,-12.402253
+30322,Spott,AI-native ATS/CRM for recruiting firms,Winter 2025,Active,"['artificial-intelligence', 'saas', 'b2b', 'hr-tech', 'enterprise-software']",1,-1,0.7283295,2.8578591
+30235,Rally,Financial OS for Modern Fleets,Winter 2025,Active,"['fintech', 'logistics', 'transportation', 'ai']",5,-1,-13.418123,-5.8935914
+29684,Parahelp,The AI support agent built for fast-moving software companies,Summer 2024,Active,[],1,-1,6.0709124,-1.5617485
+28589,HockeyStack,The operating system for inbound B2B revenue,Summer 2023,Active,"['saas', 'b2b', 'analytics', 'sales', 'marketing']",3,-1,-1.7303367,-1.1921558
+1789,Evry Health,Better health insurance for mid-size companies,Winter 2018,Acquired,"['fintech', 'healthcare', 'health-insurance', 'insurance']",6,-1,5.041883,-14.139957
+639,GBatteries,Enabling li-ion batteries to charge ultra fast without compromising…,Winter 2014,Active,"['energy-storage', 'hard-tech', 'climate']",15,-1,-15.118595,15.695549
+21996,Plerk,"Acquired by Minu.mx - Fintech solutions for employees, starting with…",Summer 2020,Acquired,"['fintech', 'saas', 'b2b']",5,-1,-18.338602,-9.156031
+24008,Catena Biosciences,Using protein coupling to build new therapies,Summer 2021,Active,"['biotech', 'therapeutics']",7,-1,-19.760275,9.542215
+29444,Vista Power,Batteries and solar for $0 upfront to help businesses save money,Winter 2024,Active,"['energy-storage', 'b2b', 'sustainability', 'manufacturing', 'renewable-energy']",15,-1,-13.766891,16.058163
+25692,Livedocs,A New Kind of Notebook for Data Storytelling,Winter 2022,Active,"['saas', 'productivity', 'analytics']",14,-1,17.831013,13.403396
+1602,UpCodes,UpCodes helps the AEC industry deliver code compliant buildings,Summer 2017,Active,"['govtech', 'construction', 'b2b']",13,-1,13.070635,-4.1315484
+21791,AtoB,Rebuilding global transportation payments.,Summer 2020,Active,"['fintech', 'saas', 'payments', 'supply-chain', 'transportation']",5,-1,-13.81354,-5.752931
+30475,Morphik,Open-source multimodal search for AI apps,Spring 2025,Active,"['artificial-intelligence', 'developer-tools', 'open-source', 'search', 'databases']",12,-1,11.708624,2.2976172
+12637,OpenReplay,"Open-source, self-hosted, session replay tool for developers.",Summer 2019,Active,"['developer-tools', 'saas', 'open-source']",11,-1,-0.14701779,13.590271
+467,Svbtle,A publishing platform.,Summer 2012,Active,['media'],14,-1,19.967855,12.14735
+28811,Casca,Make Banking Magical,Summer 2023,Active,"['artificial-intelligence', 'conversational-banking', 'fintech', 'machine-learning', 'finance']",1,-1,-16.883024,-4.178672
+1725,Precious,AI to curate your baby photos,Winter 2018,Active,['artificial-intelligence'],12,-1,-2.3148549,-16.985466
+1595,Leon & George,Buying and owning indoor potted plants made easy.,Summer 2017,Active,['e-commerce'],9,-1,-10.740563,1.3674871
+29505,Tower,Legal due diligence platform powered by AI,Winter 2024,Active,"['artificial-intelligence', 'workflow-automation', 'legal', 'legaltech', 'ai-assistant']",4,-1,8.957532,9.780436
+22975,Noble,Risk decisioning platform ,Winter 2021,Inactive,"['fintech', 'saas']",5,-1,-17.61527,-2.3629878
+28160,Finni Health,Empowering Autism Care Providers to Go Independent,Winter 2023,Active,[],6,-1,6.120054,-11.318424
+26050,Olympian Motors,Manufacturing modular electric vehicles with style,Winter 2022,Active,"['consumer', 'manufacturing', 'climate', 'transportation', 'electric-vehicles']",15,-1,-13.112257,17.225685
+30673,Nexa Labs,Implantable microchips and AI for cattle monitoring,Summer 2025,Active,"['artificial-intelligence', 'livestock-health', 'medical-devices', 'agriculture', 'biotechnology']",6,-1,-17.80146,7.2931266
+13160,Terusama,We help warehouses schedule trucks,Winter 2020,Acquired,"['scheduling', 'logistics']",3,-1,-4.3225126,-10.437153
+30883,hillclimb,Math RL Environments for Post-training,Fall 2025,Active,['reinforcement-learning'],8,-1,10.519393,14.985707
+29588,Saphira AI,Vanta for Hardware,Summer 2024,Active,"['artificial-intelligence', 'hardware', 'robotics', 'compliance', 'enterprise']",13,-1,11.695787,8.769627
+29301,Topo,AI sales agent custom trained for each company to reach the best leads,Winter 2024,Active,"['artificial-intelligence', 'saas', 'sales']",1,-1,2.7783165,0.74162143
+25817,Lifecast,"Software to create 3D video for VR, robotics and film.",Winter 2022,Inactive,"['machine-learning', 'robotics', 'virtual-reality']",13,-1,9.433285,22.753956
+27991,Coldreach,Find the best leads with custom intent signals,Winter 2023,Active,"['artificial-intelligence', 'generative-ai', 'saas', 'b2b', 'sales']",1,-1,0.11153399,0.3452054
+29772,Parley,"Automating flat-fee legal work, starting with work visas + green cards",Summer 2024,Active,"['artificial-intelligence', 'saas', 'legal', 'legaltech', 'immigration']",1,-1,13.335052,13.8114395
+865,Leaders In Tech (formerly InnerSpace),"Helping founders improve themselves, their companies, and the world.",Summer 2015,Active,['community'],0,-1,16.089222,-4.4484963
+854,ThinAir,Intelligent data security for teams,Winter 2015,Inactive,"['cybersecurity', 'enterprise']",13,-1,6.0625625,10.883219
+24204,Sentiyen,Conversational AI assistants using your knowledge,Summer 2021,Active,"['ai-enhanced-learning', 'artificial-intelligence', 'ai-assistant']",12,-1,8.265346,2.2727973
+25404,Castia,Built Rewards for Latam. Pay Rent and get benefits.,Winter 2022,Inactive,"['fintech', 'consumer', 'proptech']",0,-1,-24.113953,-6.388319
+30403,Aravolta,"Software to monitor, control, and optimize data centers.",Spring 2025,Active,"['enterprise-software', 'cloud-computing', 'monitoring']",11,-1,-7.601663,10.345395
+27264,Dev Tools AI,AI powered web & mobile automation,Summer 2022,Inactive,"['artificial-intelligence', 'b2b', 'productivity', 'enterprise']",1,-1,6.141069,5.691435
+11984,GoLinks,"Intuitive, easy-to-remember short links - powered by AI.",Winter 2019,Active,"['saas', 'productivity', 'collaboration']",1,-1,2.2482,-0.8854444
+1547,Niles,Knowledge Assistant for Work.,Winter 2017,Inactive,"['productivity', 'enterprise']",14,-1,18.769081,14.777863
+26041,The Ankler,Subscription entertainment news,Winter 2022,Active,['entertainment'],0,-1,1.793072,-9.972154
+968,Halolife,Halolife is an online platform to find and plan a burial or cremation…,Summer 2015,Inactive,[],16,-1,8.291687,-21.364876
+1998,Nestor,Skills-based talent management solutions for a dynamic workforce.,Summer 2018,Active,"['saas', 'hr-tech']",1,-1,15.619797,-7.2633295
+130,Automatic,Automatic connects your car to the rest of your digital life.,Summer 2011,Acquired,"['iot', 'automotive']",13,-1,-1.2501609,20.06185
+24629,Filadd,We help students in Latin America graduate from College.,Summer 2021,Active,"['education', 'elearning', 'community']",2,-1,20.171076,-8.637672
+12210,Endpoint Health,Precision-first therapies,Winter 2019,Active,[],7,-1,8.685225,-13.942273
+1431,Starcity,Starcity was one of the largest co-living brands. Exit to Common in…,Summer 2016,Acquired,"['real-estate', 'housing', 'proptech']",0,-1,-11.101602,-1.4685725
+12598,Narrator,The only platform that can prep data to answer EVERY question you…,Summer 2019,Inactive,"['analytics', 'big-data', 'data-engineering']",1,-1,16.330584,14.467119
+29393,Voicepanel,AI agents for customer research,Winter 2024,Active,[],1,-1,7.8628836,1.2053937
+29179,Driver AI,Understand millions of lines of code in minutes.,Winter 2024,Active,[],13,-1,11.330388,6.152179
+30491,Novoflow,AI employees that automate medical operations for clinics. ,Spring 2025,Active,[],6,-1,10.8551855,-8.914651
+13320,Laserfocus,Implement streamlined Salesforce processes for agile GTM teams,Winter 2020,Inactive,"['b2b', 'productivity', 'sales']",3,-1,-2.1750827,-1.9814785
+30529,Adentris,Real-time AI Compliance for Medical Documentation,Spring 2025,Active,"['health-tech', 'b2b', 'compliance', 'enterprise-software', 'ai']",6,-1,8.801981,-7.8650265
+12656,Adla,Department store for e-commerce,Summer 2019,Inactive,['e-commerce'],9,-1,-7.4122696,-18.236088
+511,Semantics3,Data and AI platform for Ecommerce & Cross-Border Logistics,Winter 2013,Acquired,"['artificial-intelligence', 'logistics', 'e-commerce']",1,-1,0.11594193,5.8439007
+764,GiveMeTap,We produce & sell stainless steel water bottles that enables people…,Winter 2015,Active,['sustainability'],0,-1,-2.1402712,-11.16411
+29338,Swift,Embedded finance for online merchants,Winter 2024,Active,"['fintech', 'payments']",5,-1,-17.261238,-7.461878
+30559,Godela,AI Physics Engine to replace simulations and prototypes,Spring 2025,Active,"['hard-tech', 'hardware', 'aerospace', 'ai', 'ml']",13,-1,13.659358,6.6980295
+695,PicnicHealth,Empowering Patients for Deep Real World Data,Summer 2014,Active,"['machine-learning', 'health-tech', 'digital-health', 'healthcare', 'nlp']",6,-1,8.132756,-13.907195
+1239,Burrow,"A design brand creating innovative, award winning furniture.",Summer 2016,Acquired,"['consumer', 'e-commerce', 'furniture', 'retail']",9,-1,-11.9047165,1.1900623
+22294,Clau,The real estate superapp for Mexico,Summer 2020,Active,"['fintech', 'machine-learning', 'marketplace', 'proptech']",10,-1,-11.494217,-3.269663
+23860,Positional,A modern platform for content marketing & SEO.,Summer 2021,Active,"['saas', 'marketing', 'seo']",3,-1,0.6908721,-1.8105931
+25674,Toko,Learn English by speaking with an AI,Winter 2022,Active,"['ai-enhanced-learning', 'education', 'generative-ai', 'machine-learning', 'consumer']",12,-1,17.398346,-0.91388345
+12091,Superb AI,Superb AI provides end-to-end computer vision MLOps platform,Winter 2019,Active,"['aiops', 'artificial-intelligence', 'saas', 'b2b', 'ml']",1,-1,4.0335755,5.609698
+1587,VergeSense,AI-Powered Building Management,Summer 2017,Active,"['artificial-intelligence', 'proptech']",13,-1,-5.1078606,4.9995756
+12391,ZeroDown,Find beautiful homes,Winter 2019,Acquired,"['real-estate', 'housing']",0,-1,-8.532027,3.126301
+30028,Gait,Building Dev Infra for AI Software Engineers,Fall 2024,Inactive,"['developer-tools', 'ai']",14,-1,14.645309,9.076749
+1952,The Buttermilk Company,"Instant, fresh ethnic food that actually taste homemade. We're…",Summer 2018,Inactive,"['consumer', 'food-&-beverage']",9,-1,-11.839312,-13.105818
+27263,Guardian Bio,Dendritic cell-based platform for cancer therapy ,Summer 2022,Active,"['biotech', 'healthcare', 'therapeutics', 'oncology']",7,-1,-21.168474,11.9245615
+30268,AthenaHQ,Get Your Brand Discovered on ChatGPT.,Winter 2025,Active,[],1,-1,10.333423,3.452634
+12243,Beacons,"An AI-powered, all-in-one business platform for content creators",Summer 2019,Active,['saas'],1,-1,1.1916653,-1.9295753
+140,AppHarbor,.NET Cloud Platform as a Service,Winter 2011,Inactive,['cloud-computing'],11,-1,-2.1938782,9.951776
+26264,Jutsoo,All your corporate bank accounts connected under one platform,Winter 2022,Active,"['finops', 'fintech', 'saas', 'b2b', 'enterprise-software']",5,-1,-22.201124,-10.61325
+27754,Pair AI,Reimagining education with short form video and AI,Winter 2023,Active,"['ai-enhanced-learning', 'artificial-intelligence', 'marketplace', 'elearning', 'creator-economy']",12,-1,16.604124,-1.175962
+30465,Photonium,AI-Driven Optical System Design,Spring 2025,Active,[],13,-1,13.739723,5.435017
+1465,Pulse,Electronic Medical Records for India,Winter 2017,Inactive,"['health-tech', 'india']",16,-1,7.3721795,-15.3516865
+1675,Opearlo,Opearlo produces voice apps for Amazon Alexa and Google Home.,Summer 2017,Acquired,['ai-assistant'],12,-1,9.878958,2.0251033
+29310,Tusk,AI agent that generates unit and integration tests,Winter 2024,Active,[],14,-1,21.276217,7.0083995
+573,Boostable,Advertising platform tools for marketplace sellers. ,Winter 2014,Acquired,"['marketplace', 'advertising']",0,-1,-7.9975114,-8.404603
+30301,FuseAI,The only sales software you will ever need. ,Winter 2025,Active,[],1,-1,3.1240876,1.154195
+28075,Stralis Aircraft,Emission free hydrogen electric aircraft,Winter 2023,Active,"['hard-tech', 'hydrogen-energy', 'airplanes', 'climate', 'electric-vehicles']",15,-1,-13.587325,18.761559
+1468,Nuvola,"Nuvola is transforming battery manufacturing, making EV batteries…",Winter 2017,Active,"['alternative-battery-tech', 'climate']",15,-1,-14.083101,16.165215
+24759,Phykos,Growing seaweed to stabilize the climate.,Summer 2021,Active,"['carbon-capture-and-removal', 'climate']",15,-1,-11.999697,11.698233
+29405,Risotto,Risotto auto-solves IT support requests using AI,Winter 2024,Active,"['artificial-intelligence', 'b2b', 'compliance', 'security', 'enterprise']",1,-1,6.213812,-0.22140406
+30213,Truffle AI,AWS for AI Agents,Winter 2025,Active,"['artificial-intelligence', 'developer-tools', 'generative-ai', 'infrastructure', 'ai-assistant']",12,-1,6.4403563,3.4518168
+1183,NuCypher (aka Threshold Network),Network for decentralized threshold cryptography and end-to-end…,Summer 2016,Active,"['cryptography', 'privacy']",10,-1,-15.893154,3.0219963
+1037,Function of Beauty,"Customizable beauty for hair, skin, and body care products.",Winter 2016,Active,"['beauty', 'personalization', 'e-commerce']",9,-1,-7.3986225,-19.512392
+11988,Thrive Agric,"ThriveAgric help Farmers in Africa access finance, insight and Markets",Winter 2019,Active,"['finance', 'agriculture']",5,-1,-15.855354,-9.475377
+445,Benchling,Unlocking the power of biotech with modern software for modern science,Summer 2012,Active,"['saas', 'b2b', 'biotech']",7,-1,-18.001902,9.05036
+1461,MDalgorithms Inc.,Democratizing Dermatology with AI ,Winter 2017,Active,"['consumer-health-services', 'consumer', 'healthcare', 'telemedicine', 'ai']",6,-1,8.709214,-11.570641
+21777,Depict,Merchandising for fashion e-commerce,Summer 2020,Active,"['personalization', 'e-commerce', 'fashion']",9,-1,-7.4632816,-19.108074
+25723,Aklimate,Software for enterprises to track and reduce supply chain emissions,Winter 2022,Inactive,"['saas', 'b2b', 'climate']",3,-1,-11.312809,10.747825
+28884,Dialtone,AI agents for enterprises,Summer 2023,Active,"['artificial-intelligence', 'enterprise', 'automation']",1,-1,6.0913773,2.372198
+28082,Sorted,Instant SaaS management,Winter 2023,Inactive,"['saas', 'b2b', 'productivity', 'collaboration', 'subscriptions']",3,-1,-3.4322765,-2.4327874
+21930,Osmind,Platform for breakthrough mental health research and treatment,Summer 2020,Active,"['mental-health-tech', 'saas', 'health-tech']",16,-1,10.781595,-11.53658
+127,Parse,Parse is the easiest way to build apps.,Summer 2011,Acquired,[],11,-1,-4.1416416,10.18516
+30729,Floot,The easiest way for non-coders to build apps with AI.,Summer 2025,Active,"['saas', 'no-code', 'web-development', 'ai']",12,-1,14.185666,1.6277075
+27698,Viddy,A new way to create landing pages that is video-native.,Winter 2023,Acquired,"['saas', 'b2b', 'video', 'e-commerce']",9,-1,-2.9879878,14.729337
+27424,Mogara,Automatic software R&D capitalization ,Winter 2023,Inactive,"['finance', 'b2b']",4,-1,12.095466,-1.516442
+24539,HitPay,Payments infrastructure for businesses scaling in APAC,Summer 2021,Active,"['fintech', 'payments']",5,-1,-18.31053,-11.473922
+27909,Magicflow 𐂂,The Gen AI evaluation and curation platform,Winter 2023,Inactive,"['artificial-intelligence', 'developer-tools', 'generative-ai', 'ai']",12,-1,12.716886,1.5883704
+30316,Reditus Space,Reusable Satellites for zero-g manufacturing,Winter 2025,Active,"['hard-tech', 'manufacturing', 'aerospace']",15,-1,-11.549668,19.87121
+21895,Foreword,"A marketplace for live, online workshops for professionals",Summer 2020,Inactive,"['education', 'marketplace']",2,-1,18.602758,-7.1730285
+12037,Supernova,Design system platform joins developers and designers together,Winter 2019,Active,"['developer-tools', 'design-tools']",14,-1,-0.027506076,15.465537
+666,PersistIQ,PersistIQ is a free email automation platform to send a small batch…,Summer 2014,Acquired,"['saas', 'b2b']",3,-1,-2.523419,-3.9817278
+30238,Amby Health,AI Copilot for Ambulance Agencies (EMS),Winter 2025,Active,"['saas', 'health-tech', 'digital-health', 'healthcare', 'healthcare-it']",6,-1,8.352148,-8.991034
+29298,Greenboard,'Rippling' for Financial Compliance and Operations ,Winter 2024,Active,[],13,-1,10.143094,-4.7737775
+13075,Okay,Dashboards and actionable insights for high-performing engineering…,Winter 2020,Acquired,"['analytics', 'devops']",14,-1,-0.028336518,10.564611
+21800,Seam,API for IoT Devices,Summer 2020,Active,"['developer-tools', 'iot', 'api']",11,-1,0.3541145,18.66515
+29737,"Hestus, Inc.",An AI-powered CAD software,Summer 2024,Active,[],13,-1,15.594562,5.519759
+26053,Powerhouse AI,Vision-powered warehouse automation: maximizing performance and value,Winter 2022,Active,"['saas', 'warehouse-management-tech', 'logistics']",13,-1,3.7610102,6.749568
+13479,SOMATIC,Bathroom cleaning robots for office buildings. ,Winter 2020,Active,['robotics'],13,-1,9.5227165,19.324635
+28982,Flint,AI personalized learning for schools,Summer 2023,Active,"['artificial-intelligence', 'education', 'generative-ai', 'edtech']",12,-1,19.176212,-2.412098
+22986,SST,For whatever you build.,Winter 2021,Active,"['developer-tools', 'open-source']",14,-1,0.4119354,13.984792
+781,BuildScience,The operating system for commercial buildings.,Winter 2015,Active,"['sustainability', 'proptech', 'energy']",3,-1,-6.321744,4.771684
+2020,"Mark Cuban Cost Plus Drug Company, PBC",Making low cost versions of high cost generic drugs.,Summer 2018,Active,[],9,-1,-23.135057,5.618046
+29019,Sendblue,iMessage for Sales,Summer 2023,Active,[],3,-1,-6.735169,0.55853015
+29079,Tiptap,Developer toolkit for building collaborative apps.,Summer 2023,Active,"['developer-tools', 'open-source']",14,-1,19.10793,10.173611
+30638,Lotas,"Cursor for Data Science — secure, AI-native IDE for data scientists",Summer 2025,Active,"['developer-tools', 'data-science', 'data-visualization', 'ai']",14,-1,16.350307,12.9363165
+24538,Coast,Demo Platform for API-First Companies,Summer 2021,Active,"['saas', 'b2b', 'sales', 'sales-enablement', 'api']",1,-1,1.7871877,1.125221
+1543,Faire,The global online platform empowering independent retail.,Winter 2017,Active,"['marketplace', 'retail']",0,-1,-8.558283,-15.806673
+29672,"DeepSim, Inc.",An AI physics simulator for AI chip design,Summer 2024,Active,"['artificial-intelligence', 'b2b', 'semiconductors']",13,-1,12.8605795,7.142875
+6,iCracked,On-demand smartphone repair in 3 countries and launching smart home…,Winter 2012,Acquired,[],11,-1,-2.464925,20.17251
+25395,Sekilo,Poultry processing & supply chain for the SME foodservice industry.,Winter 2022,Active,"['supply-chain', 'food']",9,-1,-13.467215,-12.881972
+22470,Degrees of Freedom,"DoF provides a high quality, affordable higher education alternative.",Winter 2021,Inactive,"['virtual-reality', 'nonprofit', 'hr-tech', 'edtech', 'ai']",2,-1,19.125555,-5.5529394
+12727,Proof Trading,Institutional equities broker-dealer,Summer 2019,Active,['finance'],10,-1,-15.172926,-1.1394486
+24579,Nomod,"The payment links app to sell anything, anywhere",Summer 2021,Active,"['fintech', 'payments']",5,-1,-16.86799,-7.943749
+1279,Xberts,Xberts.com is a cross-border marketplace for Chinese hardware…,Summer 2016,Inactive,['e-commerce'],0,-1,-11.47965,-18.626362
+1782,NewCraft,Universal API for HR & Payroll,Winter 2018,Acquired,"['developer-tools', 'b2b']",10,-1,-6.5368667,-5.277216
+30220,Verbiflow,People search that works,Winter 2025,Active,"['saas', 'analytics', 'sales', 'sales-enablement', 'ai']",1,-1,0.6635869,-0.6868806
+823,Pigeonly,"The affordable way to search, find & communicate with an incarcerated…",Winter 2015,Inactive,['govtech'],0,-1,-7.0321703,13.04004
+22696,SlashAuth,The solution for fine-grained access control in web3,Winter 2021,Inactive,"['crypto-web3', 'b2b', 'security']",11,-1,2.8605268,11.053905
+874,Roomblocker,Hotel booking for groups and events.,Summer 2015,Inactive,"['marketplace', 'b2b', 'travel']",9,-1,-14.580393,-16.778341
+24682,Pandai,Learning app for school students in Southeast Asia,Summer 2021,Active,"['education', 'saas', 'subscriptions']",2,-1,22.186691,-4.352798
+22773,noHQ,International contractor and multi country payroll ,Winter 2021,Inactive,['fintech'],10,-1,-18.43458,-11.910649
+24787,Squire.ai,Never code alone.,Summer 2021,Inactive,"['artificial-intelligence', 'developer-tools', 'saas', 'compliance', 'security']",14,-1,13.298175,10.196843
+13265,Alloy Automation,Alloy is a platform for building and managing SaaS integrations,Winter 2020,Active,"['saas', 'api']",4,-1,2.6195908,9.421423
+714,Hive,"Marketing automation for event promoters (email, sms, ads, CRM)",Summer 2014,Active,"['saas', 'crm', 'sms', 'email']",3,-1,-1.1926743,-3.7664216
+24466,Makani Science,Reinventing respiration monitoring,Summer 2021,Active,"['health-tech', 'medical-devices']",6,-1,10.20657,-12.381569
+29821,Polymet,AI Product Designer,Summer 2024,Active,['artificial-intelligence'],13,-1,14.142998,4.490866
+30287,Calltree,Enterprise-grade AI support reps for call centers,Winter 2025,Active,"['generative-ai', 'saas', 'b2b', 'customer-service', 'ai']",1,-1,6.098383,2.193127
+29761,Distro,The AI co-pilot for sales reps at industrial wholesale distributors.,Summer 2024,Active,"['saas', 'b2b', 'manufacturing', 'supply-chain', 'ai']",1,-1,1.9998308,2.0846546
+29770,Intryc,Intryc uses AI to automate quality assurance for customer support,Summer 2024,Active,"['customer-success', 'analytics', 'customer-support', 'operations']",1,-1,7.425551,-0.5723986
+27198,Velontra,Hypersonic space plane that can take-off from any location and weather,Summer 2022,Active,"['commercial-space-launch', 'hardware', 'drones', 'aerospace']",15,-1,-13.072098,19.023417
+22744,Encord,Building the data backbone for the (artificial) intelligence…,Winter 2021,Active,"['artificial-intelligence', 'developer-tools', 'machine-learning', 'computer-vision', 'ai']",12,-1,8.145737,13.409587
+1472,Beek,Leading audio subscription platform for Spanish content and creators,Winter 2017,Inactive,"['subscriptions', 'creator-economy']",0,-1,1.458649,-9.754487
+885,Airmada,Autonomous ground stations for drones,Summer 2015,Inactive,"['drones', 'logistics']",13,-1,12.215696,19.057718
+1825,Shone,Shone makes existing cargo ships autonomous through retrofit.,Winter 2018,Inactive,['logistics'],9,-1,5.385507,21.121807
+21897,Arist,Deliver effective learning at scale ,Summer 2020,Active,"['education', 'elearning']",12,-1,17.444805,-2.632365
+442,Zapier,The easiest way to automate your work.,Summer 2012,Active,"['saas', 'b2b', 'automation']",3,-1,-3.2764297,-4.626286
+11941,Kopa,Find furnished rentals and compatible housemates for 1-12 month stays ,Winter 2019,Inactive,"['marketplace', 'housing', 'community']",9,-1,-13.141279,-17.431307
+1343,Suiteness,Book guaranteed connecting rooms and suites at hotels,Summer 2016,Active,[],9,-1,-10.184396,-6.348465
+21767,Command AI,AI-powered user assistance platform,Summer 2020,Acquired,"['saas', 'b2b', 'chatbot']",1,-1,6.9765105,1.670227
+12877,EPIC AEROSPACE,Last-mile delivery for satellites.,Summer 2019,Active,"['commercial-space-launch', 'hard-tech', 'space-exploration']",15,-1,-11.480256,19.678188
+654,Bannerman,Security Guard Company Marketplace,Summer 2014,Inactive,['security'],9,-1,-4.486447,-8.060222
+11994,Sapling.ai,Language models for enterprise applications.,Winter 2019,Active,"['artificial-intelligence', 'deep-learning', 'generative-ai', 'machine-learning', 'b2b']",12,-1,8.803437,3.3609018
+30068,Stewdio,All-in-one AI creative platform,Fall 2024,Active,"['design', 'design-tools', 'video', 'advertising', 'ai']",14,-1,17.840778,6.110626
+29519,Forge Rewards,Starbucks app for restaurants,Winter 2024,Active,"['artificial-intelligence', 'fintech', 'food-tech']",0,-1,-12.732763,-9.369306
+995,Petcube,Petcube is on the mission to improve lives of pets and pet owners…,Winter 2016,Active,['hardware'],0,-1,-6.589907,17.012909
+26742,Boostly,Gamified marketing for restaurants,Summer 2022,Active,"['saas', 'b2b', 'messaging', 'food-tech']",0,-1,-8.006625,-8.579133
+1746,Sixfold Bioscience,Delivering RNA therapies.,Winter 2018,Active,"['gene-therapy', 'nanomedicine', 'drug-delivery']",7,-1,-20.871958,8.462564
+1955,CSPA,The Computer Science Proficiency Assessment (CSPA™) is a…,Summer 2018,Acquired,"['education', 'recruiting']",13,-1,21.45703,0.9063416
+29725,Promi,"Optimizing ecommerce pricing with dynamic, personalized discounts",Summer 2024,Active,[],9,-1,-5.6287594,-14.474937
+304,RescueTime,Take Back Control of your Time,Winter 2008,Active,"['developer-tools', 'saas']",10,-1,-5.023112,16.169025
+27901,Orchid,AI-powered EHR for independent mental health professionals,Winter 2023,Active,"['artificial-intelligence', 'mental-health-tech', 'saas', 'health-tech', 'healthcare']",6,-1,10.991399,-10.879763
+29481,CoCrafter,B2B construction marketplace to match contractors and subcontractors.,Winter 2024,Active,"['marketplace', 'construction']",10,-1,-7.6748915,-5.0595956
+26792,Activepieces,"Open-source, AI-first and no-code business automation tool",Summer 2022,Active,"['workflow-automation', 'open-source', 'no-code', 'enterprise-software', 'ai']",1,-1,4.3505754,-0.9283436
+25787,Courtyard.io,"A frictionless, safe, and fun experience to invest in collectibles",Winter 2022,Active,"['marketplace', 'sports-tech', 'consumer']",10,-1,-13.8736725,1.0958843
+12862,Meridian Industries,Index is the modern business intelligence platform,Summer 2019,Active,"['artificial-intelligence', 'saas', 'b2b', 'analytics', 'data-visualization']",4,-1,1.8595301,7.3298335
+28858,CraftOS,Inventory Management and POS for the Wine industry,Summer 2023,Inactive,"['saas', 'b2b', 'retail']",9,-1,-8.281863,-11.269155
+479,BuildZoom,BuildZoom is a better way to remodel. We connect homeowners to the…,Winter 2013,Active,"['real-estate', 'construction']",0,-1,-7.869652,2.686369
+30527,MindFort,Autonomous Security Agents,Spring 2025,Active,[],4,-1,6.5405025,7.7979074
+22612,Bristle,"At-home oral health testing, coaching & care",Winter 2021,Active,"['consumer-health-services', 'telemedicine']",6,-1,9.991597,-17.5302
+1467,Cartcam,"Cartcam is an app for opinionated, deal-seeking shoppers.  It gives…",Winter 2017,Inactive,"['e-commerce', 'video', 'marketing']",0,-1,-4.6017995,-17.16158
+24006,Karbon Card,Corporate Card solution for Indian businesses,Summer 2021,Active,"['fintech', 'b2b']",5,-1,-16.935389,-5.965803
+1772,Tingles,Find content that helps you relax and fall asleep.,Winter 2018,Inactive,['sleep-tech'],16,-1,3.3811407,-9.887171
+12725,DocVita,Telehealth provider for India.,Winter 2020,Active,"['marketplace', 'consumer-health-services', 'telemedicine', 'mental-health']",16,-1,7.0430264,-16.561768
+28796,Sweetspot,AI for Government Contracting.,Summer 2023,Active,[],1,-1,0.19425094,3.25344
+30112,BookMyFlight,We make booking a flight as easy as booking an Uber.,Fall 2024,Active,"['artificial-intelligence', 'travel', 'booking', 'ai-assistant']",1,-1,6.2602077,-3.846568
+29571,Apten,"Omnichannel AI agents that engage leads across SMS, voice, and email",Summer 2024,Active,"['sales', 'marketing', 'sms', 'ai-assistant']",1,-1,4.153041,1.1380997
+25379,Skillza,Skillza builds simple tools for teachers and schools in MEA,Winter 2022,Inactive,['education'],2,-1,21.04811,-2.2943537
+11977,MedCrypt,MedCrypt gives medical device vendors cybersecurity features in a few…,Winter 2019,Active,"['medical-devices', 'healthcare', 'cybersecurity']",6,-1,11.42481,-14.129325
+28183,Metal,AI Accelerated Deal Flow and Portfolio Intelligence,Winter 2023,Active,[],4,-1,12.778078,-0.214839
+13485,Bamboo,Bamboo ― the first online brokerage service for Africans and their…,Winter 2020,Active,"['fintech', 'b2b']",5,-1,-20.287426,-8.0271015
+23278,Prendea,Live afterschool classes for Spanish-speaking kids ages 4 to 15.,Winter 2021,Inactive,"['education', 'elearning', 'subscriptions']",2,-1,20.834742,-8.2757845
+30282,Riviera,AI Employees for Hotels,Winter 2025,Active,"['saas', 'b2b', 'travel', 'analytics', 'ai']",1,-1,5.6327777,0.6729533
+29071,Cedalio,Turn your utility bills into smart decisions with AI,Summer 2023,Active,"['artificial-intelligence', 'energy', 'data-engineering']",13,-1,-7.270918,11.162641
+23041,Platypus,The Distributed Data Operating System,Winter 2021,Inactive,"['b2b', 'workflow-automation', 'data-engineering', 'ai-assistant']",11,-1,-0.67729414,8.221893
+30612,truthsystems,Automatically blocking risky behavior with real-time governance agents,Summer 2025,Active,"['b2b', 'ai']",13,-1,7.8977795,9.742577
+26885,Mintplex Labs,Building the definitive all-in-one on-device AI tool suite,Summer 2022,Active,"['open-source', 'ai', 'ai-assistant']",12,-1,10.945556,11.554171
+1905,Xkit,Universal CRM integration for B2B SaaS apps,Summer 2018,Inactive,"['developer-tools', 'sales', 'api']",3,-1,-4.446002,-4.353362
+1847,ArchForm,Replacing orthodontic braces with our clear aligner and software,Winter 2018,Active,"['robotics', 'health-tech', 'medical-devices', '3d-printing']",6,-1,9.935255,-7.506192
+1819,Gainful,Personalized Performance Nutrition,Winter 2018,Active,"['consumer', 'e-commerce']",0,-1,-6.759928,-9.381608
+12662,DirectShifts,Helping healthcare workers find their next career opportunity ,Summer 2019,Active,"['recruiting', 'healthcare']",6,-1,13.943063,-14.011297
+368,Snipshot,We sold Snipshot to Ansa in 2013.,Winter 2006,Inactive,['media'],11,-1,-2.4950442,-18.322647
+26768,Disclo,Health disclosure and accommodation management platform,Summer 2022,Active,"['human-resources', 'b2b', 'compliance', 'hr-tech']",6,-1,12.793071,-13.414854
+25678,Botin,Investment super app for Latin America,Winter 2022,Inactive,"['fintech', 'crypto-web3']",5,-1,-22.398397,-6.5519156
+29069,HappyRobot,AI Communication. Built for Logistics.,Summer 2023,Active,"['logistics', 'ai-assistant']",1,-1,5.5411897,1.2937102
+599,Kuna Systems,"We're making a smart, front door camera with intercom that lets you…",Winter 2014,Acquired,"['smart-home-assistants', 'iot', 'security']",11,-1,-0.13685516,21.135502
+28329,Type,The AI-first document editor.,Winter 2023,Active,"['saas', 'productivity', 'marketing', 'ai']",14,-1,18.417673,8.162329
+566,Webflow,Professional website design and publishing platform. ,Summer 2013,Active,"['saas', 'design', 'marketing']",11,-1,14.666671,1.1726243
+1559,Peer5,P2P delivery network that enables high quality video streaming,Winter 2017,Acquired,['video'],11,-1,-3.8905194,13.709823
+29760,Modern Realty,The AI Native Real Estate Brokerage.,Summer 2024,Active,"['artificial-intelligence', 'real-estate', 'consumer', 'consumer-products', 'ai']",1,-1,2.1305025,3.9239469
+22063,Cohere,Support automation that's actually intelligent,Summer 2020,Acquired,"['artificial-intelligence', 'automation']",1,-1,6.264658,-1.5290664
+12009,Visly,Build React components visually,Winter 2019,Acquired,"['developer-tools', 'design-tools']",14,-1,-2.1574903,15.206214
+12629,Nonu,We deliver hair loss medicines for Indian men on a subscription basis.,Summer 2019,Inactive,['india'],16,-1,4.7544003,-17.355013
+28178,Vector,Find your prospects who are most likely to buy.,Winter 2023,Active,"['generative-ai', 'saas', 'b2b', 'enterprise']",1,-1,0.31109038,-0.25674525
+22902,Verak,Better Business Insurance for MSMEs in India,Winter 2021,Acquired,['insurance'],3,-1,3.302571,-15.295363
+22046,Flint,Securing Nurses for Your Future,Summer 2020,Active,['healthcare'],16,-1,14.523732,-13.953005
+1551,Indee Labs,"Enabling T cell immunotherapy discovery, development and manufacturing",Winter 2017,Active,"['gene-therapy', 'microfluidics', 'cell-therapy']",7,-1,-19.812906,12.241049
+994,Outschool,A live online learning platform that empowers kids ages 3–18.,Winter 2016,Active,"['education', 'marketplace']",2,-1,20.805048,-6.932461
+26265,Seis,Banking 100% in Spanish for the 44 million US Spanish speakers,Winter 2022,Active,"['fintech', 'consumer-finance', 'neobank']",5,-1,-21.043083,-6.3999434
+1010,Gigwell,Building the Future of Live Event Bookings.,Winter 2016,Active,"['marketplace', 'saas', 'entertainment']",0,-1,-0.9655162,-4.9882483
+25512,Ankr Health,Virtualizing brick-mortar infrastructures of clinics w/ generative AI ,Winter 2022,Active,"['generative-ai', 'telehealth', 'b2b', 'digital-health', 'telemedicine']",6,-1,9.236467,-9.703101
+30558,BitPatrol,AI-powered code security,Spring 2025,Active,"['devsecops', 'machine-learning', 'cybersecurity']",13,-1,5.6506653,8.605245
+27840,Index,Planning and AI Prototyping for Product Management,Winter 2023,Active,[],14,-1,14.337817,4.2385707
+153,Pebble,Watch that helps you get shit done and limit the mayhem of…,Winter 2011,Acquired,['productivity'],10,-1,-6.318876,16.925596
+363,Zanbazaar,Community-curated catalogs for product recommendations,Summer 2006,Inactive,"['marketplace', 'e-commerce']",9,-1,-11.086057,-19.493584
+13236,Savvy,Flexible stipends for employee health insurance,Winter 2020,Acquired,"['fintech', 'healthcare', 'health-insurance', 'insurance']",16,-1,4.1842184,-13.929167
+838,VetPronto,On demand veterinary house calls. ,Winter 2015,Inactive,['healthcare'],16,-1,7.33915,-17.772032
+13171,The Mercer Club,The Mercer Club is a subscription service that allows men to rent…,Winter 2020,Inactive,"['marketplace', 'smart-clothing', 'sustainable-fashion']",9,-1,-9.806022,-17.490557
+24606,Pylon,Infrastructure management software for water & electricity companies,Summer 2021,Active,['enterprise-software'],3,-1,-7.0438843,12.180772
+711,Tenjin,Mobile marketing analytics and infrastructure,Summer 2014,Active,['analytics'],10,-1,-5.3505654,7.519774
+2037,Kunduz,Kunduz provides instant answers to students' questions and makes…,Summer 2018,Active,"['ai-enhanced-learning', 'artificial-intelligence', 'education', 'marketplace']",2,-1,21.720919,-3.9445105
+12608,TRM Labs,TRM is building a safer financial system for billions of people.,Summer 2019,Active,"['fintech', 'machine-learning', 'crypto-web3', 'data-engineering']",10,-1,-14.815875,-2.12183
+25714,Strong Compute,10x-1000x faster compute for Neural Network training,Winter 2022,Active,"['artificial-intelligence', 'machine-learning', 'cloud-computing']",11,-1,5.357303,14.346634
+1686,Cambridge Cancer Genomics,CCG.ai empowers clinicians to make personalised treatment strategies…,Summer 2017,Inactive,"['genomics', 'oncology']",7,-1,-20.93408,10.791188
+27159,Almond,We make it easy to get great ObGyn care  in-person and over telehealth,Summer 2022,Active,"['consumer-health-services', 'telehealth', 'consumer', 'healthcare', 'femtech']",16,-1,8.634107,-17.1871
+30533,Delty,AI staff engineer: software architect that leads coding agents,Spring 2025,Active,"['artificial-intelligence', 'generative-ai', 'saas', 'b2b', 'enterprise-software']",13,-1,11.972168,4.8886666
+2013,Grin,Mobility and payments platform for Latin America,Summer 2018,Acquired,"['payments', 'latin-america', 'mobility']",5,-1,-23.203882,-7.6317654
+629,Unicornly,Unicorn.ly makes fundraising more efficient for both angel investors…,Winter 2014,Inactive,"['fintech', 'investing']",10,-1,-20.770195,-1.3854736
+1732,Shogun,Shogun empowers brands to create exceptional ecommerce experience.,Winter 2018,Active,"['saas', 'b2b', 'e-commerce']",9,-1,-4.1277204,-12.8969345
+1186,Selfycart,Selfycart - let's grocery shoppers scan items and checkout on their…,Summer 2016,Inactive,['grocery'],9,-1,-5.5452156,-17.041365
+1773,Persephone Biosciences,We are using the gut microbiome to end cancer. ,Winter 2018,Active,"['ai-powered-drug-discovery', 'covid-19']",7,-1,-21.903927,11.222421
+12549,Symplex,Applied Reinforcement Learning Research Laboratory,Summer 2019,Acquired,"['artificial-intelligence', 'data-engineering', 'ai-assistant']",12,-1,7.5806813,14.44137
+12530,Cuboh,We help restaurants manage their online orders.,Summer 2019,Acquired,"['saas', 'food-tech']",9,-1,-10.035322,-11.242597
+830,SigOpt,SigOpt is an Optimization-as-a-Service platform that seamlessly tunes…,Winter 2015,Acquired,"['machine-learning', 'saas', 'ai']",3,-1,-2.1003408,2.8811936
+29350,Aether,AI go-to-market revenue engine for home services installers. ,Winter 2024,Active,"['climate', 'crm', 'ai']",1,-1,3.1879587,1.9815481
+21857,Hypotenuse AI,"Manage, create & optimize your ecommerce product content using AI",Summer 2020,Active,"['generative-ai', 'machine-learning', 'e-commerce', 'ai']",1,-1,15.564812,-0.96687967
+23629,Tackle,Time tracking on autopilot,Winter 2021,Active,"['artificial-intelligence', 'b2b', 'operations']",1,-1,5.599515,6.0802975
+77,Zigfu,Layer above Kinect.,Summer 2011,Inactive,['augmented-reality'],14,-1,9.730482,23.900118
+22875,Roin Technologies,Building robots to automate commercial concrete construction.,Winter 2021,Acquired,"['hard-tech', 'hardware', 'robotics']",13,-1,8.419699,18.72056
+24575,Genuity,SaaS Platform to manage IT and buy business software ,Summer 2021,Active,"['saas', 'enterprise-software']",3,-1,-4.1475406,-1.7253231
+1100,Perlara,Perlara: building the YC for rare disease parents,Winter 2016,Active,[],7,-1,-23.15003,9.462717
+1698,Social Construct,Social Construct designs and assembles large apartment buildings …,Summer 2017,Inactive,"['generative-ai', 'hardware', 'housing']",13,-1,-7.1761622,4.9402595
+22878,Popl,Your complete in-person GTM platform,Winter 2021,Active,"['saas', 'iot']",3,-1,-6.042725,-1.1904887
+12657,Zergo,We make a urine test that helps women get pregnant.,Summer 2019,Inactive,"['fertility-tech', 'hardware']",16,-1,-18.50012,4.67024
+29366,Metofico,No Code Data Analysis for Life Science Research,Winter 2024,Active,"['saas', 'data-science', 'no-code', 'data-visualization']",4,-1,-15.430295,8.941494
+11931,Geosite,Geosite is an enterprise SaaS platform for spatial data.,Winter 2019,Acquired,"['saas', 'geographic-information-system']",3,-1,-4.4822783,1.9283229
+30234,Adam,AI Powered CAD,Winter 2025,Active,[],13,-1,15.251679,5.508376
+12856,Coco Wallet,Web3 super app for remittances to Latin America.,Summer 2019,Active,['crypto-web3'],10,-1,-22.689205,-6.584742
+22867,Procoto,Self-service RFP management,Winter 2021,Acquired,"['fintech', 'saas', 'procurement']",10,-1,-8.137806,-3.1629503
+12038,Doorport,Acquired by Alarm.com - We make existing apartment access smart.,Winter 2019,Acquired,"['smart-home-assistants', 'iot']",4,-1,-0.18003061,20.902409
+24550,Examedi,Uber for Healthcare in Latinamerica,Summer 2021,Active,"['marketplace', 'consumer-health-services']",16,-1,12.063224,-16.125574
+936,Shape (ShapeScale),ShapeScale is a personal 3D scanner and fitness tracker that…,Summer 2015,Active,"['hardware', 'computer-vision', 'consumer-health-services']",0,-1,6.6706257,16.388935
+631,Wit.ai,Natural Language for Developers --Wit is an API that makes it easy…,Winter 2014,Acquired,"['developer-tools', 'nlp', 'apis']",12,-1,9.715776,5.5570297
+12597,Lucid Bots,"We build robots for dull, dirty, and dangerous jobs.",Summer 2019,Active,"['robotics', 'drones', 'manufacturing', 'aerospace', 'self-driving-vehicles']",13,-1,10.109658,19.11002
+30756,Nottelabs,Reliable Web Agents for Enterprise,Summer 2025,Active,"['artificial-intelligence', 'developer-tools', 'automation']",1,-1,5.7894664,4.42709
+814,NexTravel,NexTravel is a centralized travel booking platform that helps…,Winter 2015,Acquired,"['travel', 'booking']",3,-1,-16.134062,-16.375032
+30200,Karoo,Canadian neobank focused on lending,Winter 2025,Active,"['fintech', 'consumer', 'neobank']",5,-1,-18.387384,-3.726737
+29745,Lumenary,Build working software exceedingly fast in Solar,Summer 2024,Active,"['developer-tools', 'automation', 'ai']",11,-1,10.9225855,12.541425
+1738,Necto,ISP starter kit,Winter 2018,Inactive,['telecommunications'],11,-1,-12.494572,6.394871
+1864,Hexel,Create a cryptocurrency for your community.,Winter 2018,Inactive,['crypto-web3'],10,-1,-14.093278,2.8903878
+29678,Lucible,Combined checking and investment account,Summer 2024,Active,"['fintech', 'investing', 'neobank']",5,-1,-20.14166,-1.5227721
+13234,Release,Environments as a service,Winter 2020,Active,"['developer-tools', 'saas', 'kubernetes']",11,-1,3.6191087,17.806938
+27966,CombineHealth,Automating Healthcare Revenue Cycle Management with AI Workforce,Winter 2023,Active,"['artificial-intelligence', 'machine-learning', 'healthcare']",6,-1,7.592631,-9.477468
+24355,LootRush,A safe and friendly way to play crypto games.,Summer 2021,Active,"['cloud-gaming', 'crypto-web3']",10,-1,-13.999779,1.4052787
+489,RoverRide,A universal urban transit app. Given all transportation options…,Winter 2013,Inactive,"['transportation', 'mobility']",10,-1,-1.7752825,-9.293893
+559,Butter Systems,Replacing the paper restaurant menu with an interactive experience at…,Summer 2013,Inactive,"['digital-health', 'restaurant-tech']",9,-1,-10.939724,-11.424079
+530,GoComm,Mobile communications platform for teams working on live events,Summer 2013,Inactive,[],3,-1,-5.8090405,-2.6053321
+30684,Doe,Autonomous AI workforce for PE roll-ups,Summer 2025,Active,"['generative-ai', 'saas', 'procurement', 'data-visualization', 'ai']",1,-1,3.1848648,-4.1951804
+30045,Archil,"Transform S3 in an unlimited, local file system",Fall 2024,Active,[],11,-1,6.522705,13.632908
+27867,TruthSuite,AI Fact Checking for Lawyers,Winter 2023,Active,"['artificial-intelligence', 'generative-ai', 'machine-learning', 'legal', 'legaltech']",1,-1,8.558487,9.728873
+30448,PgDog,Scaling engine for PostgreSQL,Spring 2025,Active,[],11,-1,-2.7742379,11.968892
+30062,Karmen,AI Assistant for Construction Project Managers,Fall 2024,Active,"['machine-learning', 'construction', 'ai-assistant']",13,-1,9.39275,0.37768984
+28937,LifestyleRx,Virtual Care for Type 2 Diabetes Reversal,Summer 2023,Active,"['health-tech', 'telehealth', 'healthcare', 'health-&-wellness']",16,-1,9.49262,-15.844309
+12860,Deepnote,A better data science notebook.,Summer 2019,Active,"['developer-tools', 'machine-learning']",14,-1,17.113672,13.198584
+26670,Julius,AI Data Scientist,Summer 2022,Active,['ai'],12,-1,8.263383,7.2418365
+22062,Minimum,Helping corporates achieve Net Zero through tech solutions. ,Summer 2020,Active,"['fintech', 'climate']",10,-1,-11.572801,10.292491
+12743,Loop Health,Modern & comprehensive health insurance plan for employees in India,Winter 2020,Active,"['healthcare', 'insurance', 'primary-care']",16,-1,5.321514,-15.355762
+24597,Filta,The Face Filter NFT Marketplace,Summer 2021,Active,"['augmented-reality', 'crypto-web3', 'virtual-reality']",0,-1,-1.0273799,-15.390213
+29158,Feanix Biotechnologies,Farm Genetics Made Easy - Using DNA and Software,Summer 2023,Active,[],7,-1,-17.871479,7.3166294
+30222,General Agency,AI coworkers that can learn and act just like a human,Winter 2025,Active,"['artificial-intelligence', 'hard-tech', 'reinforcement-learning', 'automation', 'ai-assistant']",1,-1,7.2632437,3.287148
+22841,ControlHub,Purchasing Software | Procure-to-Pay SaaS ,Winter 2021,Active,"['fintech', 'saas', 'b2b']",3,-1,-8.109056,-3.2759054
+27817,JustPaid,Billing Automation for B2B that actually works.,Winter 2023,Active,"['ai-enhanced-learning', 'artificial-intelligence', 'fintech', 'ai', 'ai-assistant']",1,-1,0.49064022,-4.080028
+1294,Scale AI,Data-centric infrastructure to accelerate the development of AI ,Summer 2016,Active,"['artificial-intelligence', 'machine-learning']",12,-1,7.4999666,14.249587
+26764,Tranch,Tranch is the invoice to payments platform for enterprises.,Summer 2022,Acquired,"['fintech', 'saas']",5,-1,-15.213086,-5.360152
+202,PagerDuty,Real-time visibility into critical apps and services all in one place.,Summer 2010,Public,"['devops', 'monitoring']",11,-1,-1.7037386,12.294597
+22948,MarcoPolo,Alibaba for Latin America,Winter 2021,Inactive,"['marketplace', 'b2b']",9,-1,-24.181517,-8.070216
+1657,Honeydue,"The simplest way for couples to manage money, together",Summer 2017,Acquired,['fintech'],10,-1,-23.385906,-12.028275
+432,OctaveWealth,The 401(k) that helps you grow,Summer 2012,Active,"['finance', 'investing']",10,-1,-22.170233,-2.9128158
+13217,Altay Therapeutics,Altay develops disease-modifying therapies targeting transcription…,Winter 2020,Active,"['ai-powered-drug-discovery', 'biotech', 'therapeutics', 'drug-discovery']",7,-1,-22.76964,9.6472
