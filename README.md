@@ -48,11 +48,36 @@ scrapy runspider scrapy-project/ycombinator/spiders/yscraper.py -o data/output.j
 **For analysis only:**
 - Python packages: `pip install -r requirements.txt`
 
-## Data Fields
+## Data Structure
 
-16 attributes per company including: `company_name`, `batch`, `status`, `tags`, `location`, `num_founders`, `team_size`, `website`, etc.
+Each company record contains 16 fields in JSON format:
 
-Example: Stripe (S09, Active, 7000 employees), Airbnb (W09, Public, 6132 employees)
+```json
+{
+  "company_id": 31009,
+  "company_name": "Bear",
+  "short_description": "Show up on AI Search Engines",
+  "long_description": "Bear AI helps companies show up AI search engines...",
+  "batch": "Fall 2025",
+  "status": "Active",
+  "tags": ["generative-ai", "saas", "b2b"],
+  "location": "San Francisco",
+  "country": "US",
+  "year_founded": 2025,
+  "num_founders": 2,
+  "founders_names": ["Siddhant Paliwal", "Janak Sunil"],
+  "team_size": 2,
+  "website": "https://usebear.ai",
+  "cb_url": "",
+  "linkedin_url": "https://www.linkedin.com/company/bear-ai/"
+}
+```
+
+**Load data:**
+```python
+import pandas as pd
+df = pd.read_json('data/2025-10-05-yc.companies.jl', lines=True)
+```
 
 ## Key Findings
 
